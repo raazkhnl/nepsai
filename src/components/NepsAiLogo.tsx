@@ -308,7 +308,7 @@ interface NepsAiLogoProps {
 }
 
 /**
- * Full NepsAI Brand Lockup Component
+ * Full NepsAi Brand Lockup Component
  * Includes 3D Optical Icon Mark, Wordmark, and Terminal Badges
  */
 export const NepsAiLogo: React.FC<NepsAiLogoProps> = ({

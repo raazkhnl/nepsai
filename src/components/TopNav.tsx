@@ -27,7 +27,7 @@ export const TopNav: React.FC<TopNavProps> = ({
           <button
             onClick={() => setActiveTab('terminal')}
             className="text-left group cursor-pointer focus:outline-none flex items-center gap-2.5"
-            title="NepsAI · NEPSE AI Analytics & TradingView Platform (by @raazkhnl)"
+            title="NepsAi · NEPSE AI Analytics & TradingView Platform (by @raazkhnl)"
           >
             <NepsAiIcon size={32} showGlow={true} />
             <div className="flex items-center gap-1.5 leading-none">
@@ -50,8 +50,8 @@ export const TopNav: React.FC<TopNavProps> = ({
           <button
             onClick={() => setActiveTab('terminal')}
             className={`px-3 py-1.5 rounded-md transition-colors whitespace-nowrap ${activeTab === 'terminal'
-                ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
-                : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
+              ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
+              : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
               }`}
           >
             Terminal
@@ -59,8 +59,8 @@ export const TopNav: React.FC<TopNavProps> = ({
           <button
             onClick={() => setActiveTab('movers')}
             className={`px-3 py-1.5 rounded-md transition-colors whitespace-nowrap ${activeTab === 'movers'
-                ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
-                : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
+              ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
+              : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
               }`}
           >
             Movers
@@ -68,8 +68,8 @@ export const TopNav: React.FC<TopNavProps> = ({
           <button
             onClick={() => setActiveTab('sectors')}
             className={`px-3 py-1.5 rounded-md transition-colors whitespace-nowrap ${activeTab === 'sectors'
-                ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
-                : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
+              ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
+              : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
               }`}
           >
             Sectors & Visuals
@@ -77,8 +77,8 @@ export const TopNav: React.FC<TopNavProps> = ({
           <button
             onClick={() => setActiveTab('compare')}
             className={`px-3 py-1.5 rounded-md transition-colors whitespace-nowrap ${activeTab === 'compare'
-                ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
-                : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
+              ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
+              : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
               }`}
           >
             Compare
@@ -86,8 +86,8 @@ export const TopNav: React.FC<TopNavProps> = ({
           <button
             onClick={() => setActiveTab('ai')}
             className={`px-3 py-1.5 rounded-md transition-colors whitespace-nowrap flex items-center gap-1.5 ${activeTab === 'ai'
-                ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
-                : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
+              ? 'bg-neutral-800/90 text-cyan-400 font-semibold'
+              : 'text-neutral-400 hover:text-neutral-200 hover:bg-neutral-800/40'
               }`}
           >
             <Sparkles className="w-3.5 h-3.5 text-cyan-400" />
@@ -115,8 +115,8 @@ export const TopNav: React.FC<TopNavProps> = ({
             onClick={openKeyModal}
             title="Configure BYOK LLM Keys (Gemini / Groq / OpenRouter)"
             className={`flex items-center gap-1.5 px-2.5 py-1.5 text-xs font-medium rounded-md border transition-colors whitespace-nowrap cursor-pointer ${hasPersonalKey
-                ? 'bg-cyan-950/40 border-cyan-800/60 text-cyan-300 hover:bg-cyan-900/50'
-                : 'bg-neutral-900 border-neutral-700 text-neutral-300 hover:bg-neutral-800'
+              ? 'bg-cyan-950/40 border-cyan-800/60 text-cyan-300 hover:bg-cyan-900/50'
+              : 'bg-neutral-900 border-neutral-700 text-neutral-300 hover:bg-neutral-800'
               }`}
           >
             <KeyRound className="w-3.5 h-3.5 text-cyan-400" />
