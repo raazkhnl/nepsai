@@ -20,6 +20,7 @@ import { StockComparison } from './components/StockComparison';
 import { AIAnalyticsView } from './components/AIAnalyticsView';
 import { NepseAdminPortal } from './components/NepseAdminPortal';
 import { ApiKeyModal } from './components/ApiKeyModal';
+import { NepsAiIcon } from './components/NepsAiLogo';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState<'terminal' | 'movers' | 'sectors' | 'compare' | 'ai' | 'admin'>(() => {
@@ -125,14 +126,14 @@ export default function App() {
             const data = await r.json();
             if (data) return data;
           }
-        } catch {}
+        } catch { }
         try {
           const r2 = await fetch(fallbackPath);
           if (r2.ok) {
             const data = await r2.json();
             if (data) return data;
           }
-        } catch {}
+        } catch { }
         return null;
       };
 
@@ -476,8 +477,11 @@ export default function App() {
       {/* Global Minimalist Footer */}
       <footer className="border-t border-neutral-800/80 bg-[#090d14] px-4 py-3 mt-10">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 text-xs text-neutral-500">
-          <div>
-            NepsAi · Advanced Nepal Stock Exchange (NEPSE) Intelligence & TradingView Analytics
+          <div className="flex items-center gap-2">
+            <NepsAiIcon size={20} showGlow={false} />
+            <span>
+              <span className="font-semibold text-neutral-300">NepsAi</span> · Advanced Nepal Stock Exchange (NEPSE) Intelligence &amp; TradingView Analytics
+            </span>
           </div>
           <div className="flex items-center gap-2">
             <a

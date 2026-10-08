@@ -4,6 +4,7 @@ import { buildNEPSEPrompt, executeAIAnalysisDetailed } from '../utils/aiPrompt';
 import { Sparkles, KeyRound, AlertCircle, RefreshCw, Send, ShieldCheck, CheckCircle2 } from 'lucide-react';
 import { MarkdownRenderer } from './MarkdownRenderer';
 import { AIErrorBanner, AIErrorInfo, classifyAIError } from './AIErrorBanner';
+import { NepsAiIcon } from './NepsAiLogo';
 
 interface AIAnalyticsViewProps {
   selectedStock: StockItem;
@@ -144,9 +145,9 @@ Please directly and specifically answer the user inquiry above in clean Markdown
       {/* Header and Engine Status */}
       <div className="flex flex-wrap items-center justify-between gap-4 border-b border-neutral-800/80 pb-4">
         <div>
-          <h2 className="text-lg font-bold text-white flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-cyan-400" />
-            <span>NEPSE AI Quantitative & Technical Analyst</span>
+          <h2 className="text-lg font-bold text-white flex items-center gap-2.5">
+            <NepsAiIcon size={26} showGlow={true} />
+            <span>NEPSE AI Quantitative &amp; Technical Analyst</span>
           </h2>
           <p className="text-xs text-neutral-400 mt-0.5">
             Automated technical reports grounded in multi-factor price action, RSI momentum, and Nepal market dynamics.

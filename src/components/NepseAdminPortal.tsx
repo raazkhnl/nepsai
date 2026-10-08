@@ -25,6 +25,7 @@ import {
 } from 'lucide-react';
 import { StockItem, SectorSummary, MarketSummary, ScraperStatus, LiveAuditReport } from '../types/market';
 import { getNepalDateString, getNepalTimeString, getNepalDateTimeString } from '../utils/nepalTime';
+import { NepsAiIcon } from './NepsAiLogo';
 
 interface NepseAdminPortalProps {
   stocks: StockItem[];
@@ -174,19 +175,17 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
         <div className="absolute -bottom-24 -right-24 w-72 h-72 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
 
         <div className="relative z-10 space-y-6">
-          <div className="flex items-center gap-3">
-            <div className="p-3 bg-cyan-950/50 border border-cyan-800/80 rounded-lg text-cyan-400">
-              <Shield className="w-6 h-6" />
-            </div>
+          <div className="flex items-center gap-3.5">
+            <NepsAiIcon size={44} showGlow={true} />
             <div>
               <h2 className="text-xl font-bold text-white tracking-tight flex items-center gap-2">
-                <span>Managerial Console</span>
+                <span>NepsAI Admin</span>
                 <span className="text-[10px] px-2 py-0.5 rounded bg-rose-950/60 border border-rose-800/60 text-rose-300 font-mono uppercase tracking-wider">
                   Restricted
                 </span>
               </h2>
               <p className="text-xs text-neutral-400 mt-0.5">
-                Authorized access required for pipeline controls and system audits
+                Authorized access required for pipeline controls &amp; audits
               </p>
             </div>
           </div>
@@ -260,12 +259,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
       {/* Admin Top Command Strip */}
       <div className="flex flex-wrap items-center justify-between gap-4 p-4 bg-[#090d14] border border-neutral-800 rounded-xl">
         <div className="flex items-center gap-3">
-          <div className="p-2.5 bg-emerald-950/60 border border-emerald-800/80 rounded-lg text-emerald-400">
-            <Shield className="w-5 h-5" />
-          </div>
+          <NepsAiIcon size={36} showGlow={true} />
           <div>
             <div className="flex items-center gap-2">
-              <h2 className="text-base font-bold text-white tracking-tight">NEPSE Management Console</h2>
+              <h2 className="text-base font-bold text-white tracking-tight">NepsAI Command Console</h2>
               <span className="text-[10px] px-2 py-0.5 rounded bg-emerald-950 border border-emerald-800 text-emerald-400 font-mono font-semibold">
                 AUTHENTICATED: admin
               </span>
@@ -305,11 +302,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
       <div className="flex items-center gap-1 border-b border-neutral-800 overflow-x-auto pb-1 text-xs">
         <button
           onClick={() => setAdminTab('scheduler')}
-          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${
-            adminTab === 'scheduler'
+          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${adminTab === 'scheduler'
               ? 'bg-[#0e131d] text-cyan-400 border-t-2 border-cyan-400 font-semibold'
               : 'text-neutral-400 hover:text-white hover:bg-neutral-800/40'
-          }`}
+            }`}
         >
           <Clock className="w-3.5 h-3.5" />
           <span>5 PM Runner & Schedule</span>
@@ -317,11 +313,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
 
         <button
           onClick={() => setAdminTab('backfill')}
-          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${
-            adminTab === 'backfill'
+          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${adminTab === 'backfill'
               ? 'bg-[#0e131d] text-cyan-400 border-t-2 border-cyan-400 font-semibold'
               : 'text-neutral-400 hover:text-white hover:bg-neutral-800/40'
-          }`}
+            }`}
         >
           <RotateCcw className="w-3.5 h-3.5" />
           <span>Historical Backfill (Since 2016)</span>
@@ -329,11 +324,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
 
         <button
           onClick={() => setAdminTab('audit')}
-          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${
-            adminTab === 'audit'
+          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${adminTab === 'audit'
               ? 'bg-[#0e131d] text-cyan-400 border-t-2 border-cyan-400 font-semibold'
               : 'text-neutral-400 hover:text-white hover:bg-neutral-800/40'
-          }`}
+            }`}
         >
           <Activity className="w-3.5 h-3.5" />
           <span>Multi-Source Live Audit</span>
@@ -341,11 +335,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
 
         <button
           onClick={() => setAdminTab('logs')}
-          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${
-            adminTab === 'logs'
+          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${adminTab === 'logs'
               ? 'bg-[#0e131d] text-cyan-400 border-t-2 border-cyan-400 font-semibold'
               : 'text-neutral-400 hover:text-white hover:bg-neutral-800/40'
-          }`}
+            }`}
         >
           <Terminal className="w-3.5 h-3.5" />
           <span>Nepal Time Logs</span>
@@ -353,11 +346,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
 
         <button
           onClick={() => setAdminTab('export')}
-          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${
-            adminTab === 'export'
+          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${adminTab === 'export'
               ? 'bg-[#0e131d] text-cyan-400 border-t-2 border-cyan-400 font-semibold'
               : 'text-neutral-400 hover:text-white hover:bg-neutral-800/40'
-          }`}
+            }`}
         >
           <Download className="w-3.5 h-3.5" />
           <span>Data Exporter (CSV/JSONL/SQLite)</span>
@@ -365,11 +357,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
 
         <button
           onClick={() => setAdminTab('docs')}
-          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${
-            adminTab === 'docs'
+          className={`px-3 py-2 rounded-t-lg transition-colors flex items-center gap-1.5 whitespace-nowrap ${adminTab === 'docs'
               ? 'bg-[#0e131d] text-cyan-400 border-t-2 border-cyan-400 font-semibold'
               : 'text-neutral-400 hover:text-white hover:bg-neutral-800/40'
-          }`}
+            }`}
         >
           <BookOpen className="w-3.5 h-3.5" />
           <span>System Specs & Architecture</span>
@@ -662,11 +653,10 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
                 <button
                   key={lvl}
                   onClick={() => setLogFilter(lvl)}
-                  className={`px-2.5 py-1 rounded text-[11px] font-mono transition-colors ${
-                    logFilter === lvl
+                  className={`px-2.5 py-1 rounded text-[11px] font-mono transition-colors ${logFilter === lvl
                       ? 'bg-cyan-950 text-cyan-300 border border-cyan-800'
                       : 'bg-[#090d14] text-neutral-400 border border-neutral-800'
-                  }`}
+                    }`}
                 >
                   {lvl}
                 </button>
@@ -693,13 +683,12 @@ export const NepseAdminPortal: React.FC<NepseAdminPortalProps> = ({
                 <div key={i} className="flex items-start gap-2.5 leading-relaxed text-[11px]">
                   <span className="text-neutral-500 shrink-0 select-none">[{log.timestamp}]</span>
                   <span
-                    className={`font-bold shrink-0 px-1 py-0.2 rounded text-[10px] ${
-                      log.level === 'SUCCESS'
+                    className={`font-bold shrink-0 px-1 py-0.2 rounded text-[10px] ${log.level === 'SUCCESS'
                         ? 'text-emerald-400 bg-emerald-950/60'
                         : log.level === 'ERROR'
-                        ? 'text-rose-400 bg-rose-950/60'
-                        : 'text-cyan-400 bg-cyan-950/60'
-                    }`}
+                          ? 'text-rose-400 bg-rose-950/60'
+                          : 'text-cyan-400 bg-cyan-950/60'
+                      }`}
                   >
                     {log.level}
                   </span>

@@ -1,4 +1,8 @@
-# NepsAI: NEPSE AI Analytics & TradingView Platform 🇳🇵
+<p align="center">
+  <img src="public/nepsai-logo.svg" alt="NepsAi Logo" width="580" />
+</p>
+
+# NepsAi: NEPSE AI Analytics & TradingView Platform
 
 [![CI Validation](https://github.com/raazkhnl/nepsai/actions/workflows/ci.yml/badge.svg)](https://github.com/raazkhnl/nepsai/actions/workflows/ci.yml)
 [![Daily EOD Scraper](https://github.com/raazkhnl/nepsai/actions/workflows/nepse-daily-scrape.yml/badge.svg)](https://github.com/raazkhnl/nepsai/actions/workflows/nepse-daily-scrape.yml)

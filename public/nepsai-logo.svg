@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 140" width="100%" height="100%">
+  <!-- ========================================================================== -->
+  <!-- NepsAi Full Brand Lockup · Realistic 3D Prismatic Terminal Vector          -->
+  <!-- NEPSE AI Quantitative Analytics & TradingView Platform                     -->
+  <!-- Created by @raazkhnl (Rajesh Khanal) · https://khanalrajesh.com.np         -->
+  <!-- ========================================================================== -->
+  <defs>
+    <!-- Background Frame Gradient -->
+    <linearGradient id="l2-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060911"/>
+      <stop offset="50%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#06080E"/>
+    </linearGradient>
+
+    <!-- Beveled Frame Stroke -->
+    <linearGradient id="l2-frame-stroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="35%" stop-color="#1E293B" stop-opacity="0.6"/>
+      <stop offset="70%" stop-color="#0F172A" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Icon Housing Background -->
+    <radialGradient id="l2-icon-plate" cx="35%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#0E1626"/>
+      <stop offset="50%" stop-color="#080D17"/>
+      <stop offset="100%" stop-color="#04060A"/>
+    </radialGradient>
+
+    <!-- 3D Candlestick Pillar Gradients -->
+    <linearGradient id="l2-pillar-left" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="40%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+
+    <linearGradient id="l2-pillar-right" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="30%" stop-color="#10B981"/>
+      <stop offset="75%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+
+    <linearGradient id="l2-diagonal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="50%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+
+    <linearGradient id="l2-diag-crest" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <!-- Brand Typography Gradient -->
+    <linearGradient id="l2-text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="55%" stop-color="#F0F9FF"/>
+      <stop offset="75%" stop-color="#67E8F9"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Soft Filter Glow -->
+    <filter id="l2-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="676" height="136" rx="22" fill="url(#l2-bg)" stroke="url(#l2-frame-stroke)" stroke-width="1.6"/>
+
+  <!-- Subtle Matrix Backlight -->
+  <circle cx="72" cy="70" r="60" fill="#06B6D4" opacity="0.12"/>
+  <circle cx="105" cy="50" r="45" fill="#10B981" opacity="0.14"/>
+
+  <!-- ==================== LEFT 3D ICON EMBED (x: 20, y: 18, 104x104) ==================== -->
+  <g transform="translate(20, 18)">
+    <!-- 3D Base Plate -->
+    <rect x="0" y="0" width="104" height="104" rx="26" fill="url(#l2-icon-plate)" stroke="#1E293B" stroke-width="1.5"/>
+
+    <!-- Subtle Calibrated Axes -->
+    <g opacity="0.12" stroke="#38BDF8" stroke-width="1" stroke-dasharray="2 3">
+      <circle cx="52" cy="52" r="38" fill="none"/>
+      <line x1="14" y1="52" x2="90" y2="52"/>
+      <line x1="52" y1="14" x2="52" y2="90"/>
+    </g>
+
+    <!-- Contact Shadow -->
+    <rect x="28" y="44" width="12" height="42" rx="3" fill="#000000" opacity="0.5"/>
+    <rect x="66" y="32" width="12" height="52" rx="3" fill="#000000" opacity="0.5"/>
+
+    <!-- Candlestick Wicks -->
+    <line x1="34" y1="23" x2="34" y2="84" stroke="#38BDF8" stroke-width="2.6" stroke-linecap="round"/>
+    <line x1="72" y1="16" x2="72" y2="88" stroke="#34D399" stroke-width="2.6" stroke-linecap="round"/>
+
+    <!-- Left Candlestick Pillar (Cyan 3D Glass) -->
+    <rect x="28" y="34" width="12" height="42" rx="3.5" fill="url(#l2-pillar-left)" filter="url(#l2-glow)"/>
+    <line x1="30" y1="36" x2="30" y2="73" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" opacity="0.85"/>
+
+    <!-- Right Candlestick Pillar (Towering Emerald 3D Glass) -->
+    <rect x="66" y="25" width="12" height="51" rx="3.5" fill="url(#l2-pillar-right)" filter="url(#l2-glow)"/>
+    <line x1="68" y1="27" x2="68" y2="73" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" opacity="0.85"/>
+
+    <!-- 3D Optical Diagonal Bridge -->
+    <polygon points="40,34 66,60 66,67 40,41" fill="url(#l2-diagonal)"/>
+    <line x1="40" y1="34" x2="66" y2="60" stroke="url(#l2-diag-crest)" stroke-width="2" stroke-linecap="round" filter="url(#l2-glow)"/>
+
+    <!-- Apex AI 4-Point Diamond Flare (✦) -->
+    <g transform="translate(72, 16)" filter="url(#l2-glow)">
+      <!-- Anamorphic Streak -->
+      <line x1="-22" y1="0" x2="22" y2="0" stroke="#FFFFFF" stroke-width="1" opacity="0.8"/>
+      <!-- Radial Halo -->
+      <circle r="9" fill="#00F2FE" opacity="0.4"/>
+      <!-- Primary Ray -->
+      <path d="M 0 -8 Q 0 0, -1.6 0 Q 0 0, 0 8 Q 0 0, 1.6 0 Q 0 0, 0 -8 Z" fill="#FFFFFF"/>
+      <path d="M -8 0 Q 0 0, 0 -1.6 Q 0 0, 8 0 Q 0 0, 0 1.6 Q 0 0, -8 0 Z" fill="#FFFFFF"/>
+      <circle r="1.6" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Corner Reticles -->
+    <g stroke="#00F2FE" stroke-width="1" opacity="0.45">
+      <path d="M 8 16 L 8 8 L 16 8"/>
+      <path d="M 88 8 L 96 8 L 96 16"/>
+      <path d="M 8 88 L 8 96 L 16 96"/>
+      <path d="M 88 96 L 96 96 L 96 88"/>
+    </g>
+  </g>
+
+  <!-- ==================== TYPOGRAPHIC WORDMARK ==================== -->
+  <g transform="translate(146, 62)">
+    <text font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="800" font-size="44" letter-spacing="-0.8" fill="url(#l2-text-grad)">
+      Neps<tspan fill="#22D3EE">Ai</tspan>
+    </text>
+
+    <!-- NEPSE Market Chip -->
+    <rect x="184" y="-34" width="66" height="25" rx="6" fill="#083344" stroke="#0E7490" stroke-width="1"/>
+    <text x="217" y="-17" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#22D3EE" text-anchor="middle">
+      NEPSE
+    </text>
+
+    <!-- AI Chip -->
+    <rect x="258" y="-34" width="96" height="25" rx="6" fill="#052E16" stroke="#059669" stroke-width="1"/>
+    <text x="306" y="-17" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#34D399" text-anchor="middle">
+      ✦ AI
+    </text>
+  </g>
+
+  <!-- Subtitle: Clean Institutional Positioning -->
+  <text x="148" y="94" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="14" font-weight="500" fill="#94A3B8" letter-spacing="0.2">
+    Institutional NEPSE Intelligence &amp; TradingView Candlestick Analytics
+  </text>
+
+  <!-- Signature Attribution: Created by @raazkhnl -->
+  <g transform="translate(148, 116)" font-family="'JetBrains Mono', monospace" font-size="11">
+    <text fill="#64748B">designed &amp; built by</text>
+    <text x="126" fill="#38BDF8" font-weight="700">@raazkhnl</text>
+    <text x="195" fill="#475569">·</text>
+    <text x="210" fill="#10B981">TradingView Terminal Edition</text>
+  </g>
+
+  <!-- Right Decorative Sci-Fi Reticle -->
+  <g transform="translate(638, 42)" opacity="0.65">
+    <circle r="14" fill="#00F2FE" opacity="0.12"/>
+    <path d="M 0 -9 Q 0 0, -1.8 0 Q 0 0, 0 9 Q 0 0, 1.8 0 Q 0 0, 0 -9 Z" fill="#38BDF8"/>
+    <path d="M -9 0 Q 0 0, 0 -1.8 Q 0 0, 9 0 Q 0 0, 0 1.8 Q 0 0, -9 0 Z" fill="#38BDF8"/>
+  </g>
+</svg>

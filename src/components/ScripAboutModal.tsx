@@ -96,9 +96,8 @@ export const ScripAboutModal: React.FC<ScripAboutModalProps> = ({
               NPR {stock.ltp.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
             </div>
             <div
-              className={`flex items-center gap-1 text-xs font-semibold mt-0.5 ${
-                isPositive ? 'text-emerald-400' : 'text-rose-400'
-              }`}
+              className={`flex items-center gap-1 text-xs font-semibold mt-0.5 ${isPositive ? 'text-emerald-400' : 'text-rose-400'
+                }`}
             >
               {isPositive ? <TrendingUp className="w-3.5 h-3.5" /> : <TrendingDown className="w-3.5 h-3.5" />}
               <span>

@@ -1,0 +1,360 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- ========================================================================== -->
+  <!-- NepsAi Master Icon · Hyper-Realistic 3D Optical Prismatic Monogram         -->
+  <!-- NEPSE AI Quantitative Analytics & Institutional TradingView Platform       -->
+  <!-- Created by @raazkhnl (Rajesh Khanal) · https://khanalrajesh.com.np         -->
+  <!-- Concept: 3D Refractive Glass "N" + Volumetric Candlesticks + AI Laser Core -->
+  <!-- ========================================================================== -->
+  <defs>
+    <!-- Background: Deep Obsidian & Dark Titanium Void -->
+    <radialGradient id="r-plate-bg" cx="40%" cy="30%" r="85%">
+      <stop offset="0%" stop-color="#0E1424"/>
+      <stop offset="45%" stop-color="#090D17"/>
+      <stop offset="100%" stop-color="#04060A"/>
+    </radialGradient>
+
+    <!-- Outer Beveled Rim Gradient: Brushed Graphite with Cyan/Violet Specular Glint -->
+    <linearGradient id="r-plate-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="25%" stop-color="#1E293B" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0F172A" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#334155" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <!-- Inner Plate Groove -->
+    <linearGradient id="r-inner-groove" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0.3"/>
+    </linearGradient>
+
+    <!-- Ambient Illumination Under the Floating Monogram -->
+    <radialGradient id="r-ambient-cyan" cx="30%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#0284C7" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="r-ambient-emerald" cx="70%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.38"/>
+      <stop offset="45%" stop-color="#059669" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- ==================== 3D GLASS PILLAR GRADIENTS ==================== -->
+    <!-- Left Glass Pillar: Front Face (Translucent Cyan/Teal Optic Glass) -->
+    <linearGradient id="r-pillar-left-front" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="30%" stop-color="#06B6D4" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#0284C7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0369A1" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Left Glass Pillar: Specular Top Bevel -->
+    <linearGradient id="r-pillar-left-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#BAE6FD"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Right Glass Pillar: Front Face (Volumetric Bullish Emerald-Cyan Prism) -->
+    <linearGradient id="r-pillar-right-front" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.95"/>
+      <stop offset="25%" stop-color="#10B981" stop-opacity="0.88"/>
+      <stop offset="65%" stop-color="#06B6D4" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Right Glass Pillar: Top Bevel Specular Sheen -->
+    <linearGradient id="r-pillar-right-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="40%" stop-color="#D1FAE5"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <!-- ==================== 3D DIAGONAL PRISM FACETS ==================== -->
+    <!-- Diagonal Prism: Upper Lit Bevel (Direct Refraction) -->
+    <linearGradient id="r-diag-top-facet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="20%" stop-color="#7DD3FC"/>
+      <stop offset="60%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+
+    <!-- Diagonal Prism: Main Body Facet (Refractive Internal Glass) -->
+    <linearGradient id="r-diag-main-facet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#0891B2" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#059669" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#047857" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Diagonal Prism: Bottom Thickness Bevel (Deep Ambient Shadow) -->
+    <linearGradient id="r-diag-bottom-facet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03456D"/>
+      <stop offset="50%" stop-color="#083344"/>
+      <stop offset="100%" stop-color="#022C22"/>
+    </linearGradient>
+
+    <!-- Specular Ridge Glint Edge -->
+    <linearGradient id="r-specular-edge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#E0F2FE" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#A7F3D0" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+    </linearGradient>
+
+    <!-- Laser Neural Trajectory Beam -->
+    <linearGradient id="r-laser-beam" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.2"/>
+      <stop offset="30%" stop-color="#00F2FE" stop-opacity="0.7"/>
+      <stop offset="70%" stop-color="#10B981" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+
+    <!-- AI Apex Caustic Bloom -->
+    <radialGradient id="r-star-bloom" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="20%" stop-color="#A5F3FC" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.4"/>
+      <stop offset="80%" stop-color="#10B981" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Anamorphic Streak Gradient -->
+    <linearGradient id="r-streak-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="75%" stop-color="#34D399" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Realistic Soft Optical Glow Filters -->
+    <filter id="r-filter-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="9" result="blur1"/>
+      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="r-filter-flare" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="16" result="bigBlur"/>
+      <feGaussianBlur stdDeviation="4" result="sharpBlur"/>
+      <feMerge>
+        <feMergeNode in="bigBlur"/>
+        <feMergeNode in="sharpBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Realistic Ambient Contact Shadow for the 3D Monogram -->
+    <filter id="r-contact-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18" result="shadowBlur"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.85 0"/>
+      <feOffset dx="0" dy="24" result="offsetShadow"/>
+      <feComposite in="SourceGraphic" in2="offsetShadow" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- ==================== BASE TITANIUM HOUSING ==================== -->
+  <!-- Outer Beveled Squircle Plate -->
+  <rect x="22" y="22" width="468" height="468" rx="112" fill="url(#r-plate-bg)"/>
+  
+  <!-- Ambient Internal Atmospheric Glow -->
+  <rect x="22" y="22" width="468" height="468" rx="112" fill="url(#r-ambient-cyan)"/>
+  <rect x="22" y="22" width="468" height="468" rx="112" fill="url(#r-ambient-emerald)"/>
+
+  <!-- Precision Machined Recessed Groove -->
+  <rect x="34" y="34" width="444" height="444" rx="100" fill="none" stroke="url(#r-inner-groove)" stroke-width="2"/>
+
+  <!-- Technical Reticle Coordinate Rings & Calibrated Terminal Axes (Faint & Ultra-Crisp) -->
+  <g opacity="0.12" stroke="#38BDF8" stroke-width="1">
+    <!-- Outer concentric radar ring -->
+    <circle cx="256" cy="256" r="190" fill="none" stroke-dasharray="4 8"/>
+    <circle cx="256" cy="256" r="130" fill="none" stroke-dasharray="2 6"/>
+    <circle cx="256" cy="256" r="60" fill="none"/>
+    <!-- Calibration crosshairs -->
+    <line x1="256" y1="46" x2="256" y2="466" stroke-dasharray="3 7"/>
+    <line x1="46" y1="256" x2="466" y2="256" stroke-dasharray="3 7"/>
+  </g>
+
+  <!-- High-Precision Corner Optical Calibrators -->
+  <g stroke="#22D3EE" stroke-width="1.5" opacity="0.5">
+    <path d="M 54 74 L 54 54 L 74 54"/>
+    <path d="M 438 54 L 458 54 L 458 74"/>
+    <path d="M 54 438 L 54 458 L 74 458"/>
+    <path d="M 438 458 L 458 458 L 458 438"/>
+  </g>
+
+  <!-- ==================== REALISTIC 3D CONTACT SHADOW ==================== -->
+  <!-- Soft, Volumetric Shadow Cast by the Monogram onto the Obsidian Bed -->
+  <g opacity="0.65" filter="url(#r-contact-shadow)">
+    <!-- Shadow for Left Pillar -->
+    <rect x="130" y="195" width="56" height="205" rx="14" fill="#000000"/>
+    <!-- Shadow for Right Pillar -->
+    <rect x="326" y="145" width="56" height="245" rx="14" fill="#000000"/>
+    <!-- Shadow for Connecting Diagonal -->
+    <polygon points="186,220 326,350 326,380 186,250" fill="#000000"/>
+  </g>
+
+  <!-- ==================== LASER NEURAL TRAJECTORY (MIDGROUND) ==================== -->
+  <!-- Exponential Bullish Trajectory Slicing Through 3D Dimensional Space -->
+  <path d="M 78 412 C 145 412, 195 355, 248 308 C 295 266, 332 170, 354 72" 
+        fill="none" 
+        stroke="url(#r-laser-beam)" 
+        stroke-width="3" 
+        stroke-linecap="round"
+        filter="url(#r-filter-glow)"/>
+
+  <path d="M 78 412 C 145 412, 195 355, 248 308 C 295 266, 332 170, 354 72" 
+        fill="none" 
+        stroke="#FFFFFF" 
+        stroke-width="1" 
+        stroke-linecap="round"
+        opacity="0.85"/>
+
+  <!-- ==================== THE 3D OPTICAL "N" PRISM STRUCTURE ==================== -->
+
+  <!-- === 1. LEFT CANDLESTICK COLUMN (Support Impulse) === -->
+  <g>
+    <!-- Internal Laser Wick (Glow Filament) -->
+    <line x1="158" y1="112" x2="158" y2="402" stroke="#38BDF8" stroke-width="4.5" stroke-linecap="round" filter="url(#r-filter-glow)"/>
+    <line x1="158" y1="112" x2="158" y2="402" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Glass Pillar Casing (Back Depth Shadow) -->
+    <rect x="130" y="166" width="56" height="198" rx="14" fill="#024B75" opacity="0.7"/>
+
+    <!-- Glass Pillar Casing (Main Refractive Front Face) -->
+    <rect x="130" y="162" width="56" height="198" rx="14" fill="url(#r-pillar-left-front)" filter="url(#r-filter-glow)"/>
+
+    <!-- 3D Top Bevel Facet (Direct Light Influx) -->
+    <path d="M 130 176 C 130 168, 136 162, 144 162 L 172 162 C 180 162, 186 168, 186 176 L 186 180 C 186 172, 180 166, 172 166 L 144 166 C 136 166, 130 172, 130 180 Z" 
+          fill="url(#r-pillar-left-top)"/>
+
+    <!-- Polished Glass Edge Specular Highlight (Left Curved Rim) -->
+    <path d="M 133 182 L 133 346" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+    <path d="M 137 178 L 137 350" stroke="#BAE6FD" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+
+    <!-- Internal Optical Light Caustic (Radial core inside glass) -->
+    <ellipse cx="158" cy="260" rx="14" ry="40" fill="#00F2FE" opacity="0.4" filter="url(#r-filter-glow)"/>
+  </g>
+
+  <!-- === 2. RIGHT CANDLESTICK COLUMN (Towering ATH Breakout) === -->
+  <g>
+    <!-- Extended Upper & Lower Precision Wick -->
+    <line x1="354" y1="72" x2="354" y2="422" stroke="#34D399" stroke-width="4.5" stroke-linecap="round" filter="url(#r-filter-glow)"/>
+    <line x1="354" y1="72" x2="354" y2="422" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Glass Pillar Casing (Back Depth Shadow) -->
+    <rect x="326" y="126" width="56" height="238" rx="14" fill="#064E3B" opacity="0.75"/>
+
+    <!-- Glass Pillar Casing (Main Emerald/Cyan Refractive Front Face) -->
+    <rect x="326" y="120" width="56" height="238" rx="14" fill="url(#r-pillar-right-front)" filter="url(#r-filter-glow)"/>
+
+    <!-- 3D Top Bevel Facet (Direct Light Influx on Highest Pinnacle) -->
+    <path d="M 326 134 C 326 126, 332 120, 340 120 L 368 120 C 376 120, 382 126, 382 134 L 382 138 C 382 130, 376 124, 368 124 L 340 124 C 332 124, 326 130, 326 138 Z" 
+          fill="url(#r-pillar-right-top)"/>
+
+    <!-- Polished Glass Specular Edge (Left Rim) -->
+    <path d="M 329 140 L 329 344" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+    <path d="M 333 136 L 333 348" stroke="#D1FAE5" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+
+    <!-- Internal Optical Light Caustic (Emerald energy pulse) -->
+    <ellipse cx="354" cy="220" rx="15" ry="50" fill="#34D399" opacity="0.45" filter="url(#r-filter-glow)"/>
+  </g>
+
+  <!-- === 3. THE 3D CONNECTING DIAGONAL PRISM (Interlocking Optical Bridge) === -->
+  <!-- Under-Facet: Deep volumetric thickness / ambient shadow (3D Extrusion) -->
+  <polygon points="186,186 326,326 326,358 186,218" 
+           fill="url(#r-diag-bottom-facet)"/>
+
+  <!-- Main Body Facet: Polished Refractive Optical Slab -->
+  <polygon points="186,162 326,302 326,334 186,194" 
+           fill="url(#r-diag-main-facet)" 
+           filter="url(#r-filter-glow)"/>
+
+  <!-- Upper-Facet: Lit Refraction Bevel (Catches Direct Downlight) -->
+  <polygon points="186,162 326,302 326,314 186,174" 
+           fill="url(#r-diag-top-facet)"/>
+
+  <!-- High-Gloss Specular Ridge Crest Line (Razor-Sharp Glint) -->
+  <line x1="186" y1="162" x2="326" y2="302" 
+        stroke="url(#r-specular-edge)" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        filter="url(#r-filter-glow)"/>
+
+  <!-- Secondary Internal Refraction Line -->
+  <line x1="192" y1="182" x2="320" y2="310" 
+        stroke="#A5F3FC" 
+        stroke-width="1" 
+        stroke-linecap="round" 
+        opacity="0.6"/>
+
+  <!-- ==================== FIBONACCI PIVOT QUANTUM NODES ==================== -->
+  <!-- Node 1: Accumulation Base Pivot -->
+  <g transform="translate(158, 360)">
+    <circle r="9" fill="#00F2FE" opacity="0.25" filter="url(#r-filter-glow)"/>
+    <circle r="5" fill="#38BDF8"/>
+    <circle r="2" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Node 2: Golden Pocket Reversal Pivot (Center Matrix) -->
+  <g transform="translate(256, 298)">
+    <circle r="10" fill="#10B981" opacity="0.3" filter="url(#r-filter-glow)"/>
+    <circle r="5.5" fill="#34D399"/>
+    <circle r="2.2" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Node 3: Breakout Ignition Pivot -->
+  <g transform="translate(354, 122)">
+    <circle r="9" fill="#22D3EE" opacity="0.3" filter="url(#r-filter-glow)"/>
+    <circle r="5" fill="#67E8F9"/>
+    <circle r="2" fill="#FFFFFF"/>
+  </g>
+
+  <!-- ==================== THE APEX AI QUANTUM BEACON (REALISTIC FLARE) ==================== -->
+  <!-- Positioned precisely at the apex of the breakout candle wick (x: 354, y: 72) -->
+  <g transform="translate(354, 72)">
+    <!-- 1. Cinematic Horizontal Anamorphic Streak Line (Cyan/Emerald) -->
+    <rect x="-85" y="-1.5" width="170" height="3" rx="1.5" fill="url(#r-streak-grad)" filter="url(#r-filter-flare)"/>
+
+    <!-- 2. Omnidirectional Volumetric Atmospheric Bloom Halo -->
+    <circle r="42" fill="url(#r-star-bloom)" filter="url(#r-filter-flare)"/>
+
+    <!-- 3. Primary 4-Point Faceted Diamond Rays -->
+    <!-- Vertical Diamond Spike -->
+    <path d="M 0 -34 Q 0 0, -5.5 0 Q 0 0, 0 34 Q 0 0, 5.5 0 Q 0 0, 0 -34 Z" 
+          fill="#FFFFFF" 
+          filter="url(#r-filter-glow)"/>
+    <!-- Horizontal Diamond Spike -->
+    <path d="M -34 0 Q 0 0, 0 -5.5 Q 0 0, 34 0 Q 0 0, 0 5.5 Q 0 0, -34 0 Z" 
+          fill="#FFFFFF" 
+          filter="url(#r-filter-glow)"/>
+
+    <!-- 4. Secondary 45-Degree Prismatic Sparkle Rays -->
+    <line x1="-13" y1="-13" x2="13" y2="13" stroke="#67E8F9" stroke-width="2.2" stroke-linecap="round" opacity="0.9"/>
+    <line x1="13" y1="-13" x2="-13" y2="13" stroke="#34D399" stroke-width="2.2" stroke-linecap="round" opacity="0.9"/>
+
+    <!-- 5. Brilliant Ultra-White Optical Center Point -->
+    <circle r="4" fill="#FFFFFF"/>
+  </g>
+
+  <!-- ==================== OUTER BEVELED TITANIUM HOUSING RING ==================== -->
+  <!-- Outer Chamfered Precision Stroke -->
+  <rect x="22" y="22" width="468" height="468" rx="112" 
+        fill="none" 
+        stroke="url(#r-plate-border)" 
+        stroke-width="3" 
+        opacity="0.9"/>
+
+  <!-- High-Precision Terminal Micro-Branding (Laser Etched in Obsidian Plate) -->
+  <g opacity="0.42" font-family="'JetBrains Mono', monospace" font-size="9" fill="#94A3B8" letter-spacing="2">
+    <text x="50" y="468">NEPSE · AI</text>
+    <text x="360" y="468" text-anchor="start">@raazkhnl</text>
+  </g>
+</svg>
