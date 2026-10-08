@@ -1,0 +1,6 @@
+{
+  "name": "NepsAi",
+  "description": "NepsAi: Advanced Nepal Stock Exchange (NEPSE) analytics platform with TradingView charts, technical indicators, sector heatmaps, and AI-powered market insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

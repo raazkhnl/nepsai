@@ -1,0 +1,87 @@
+name: NEPSE Live Market Pipeline (15-Min Scraper & GitHub Pages Deploy)
+
+on:
+  schedule:
+    # Nepal Trading Days: Sunday (0) to Thursday (4)
+    # Nepal Standard Time (NPT) is UTC + 5:45
+    # 09:15 AM - 09:30 AM NPT (03:30 - 03:45 UTC)
+    - cron: '30,45 3 * * 0-4'
+    # 09:45 AM - 02:45 PM NPT (04:00 - 08:45 UTC, every 15 minutes)
+    - cron: '0,15,30,45 4-8 * * 0-4'
+    # 03:00 PM - 03:15 PM NPT (09:00 - 09:30 UTC, market closing bell)
+    - cron: '0,15,30 9 * * 0-4'
+    # 05:00 PM NPT (11:15 UTC, official final EOD settlement)
+    - cron: '15 11 * * 0-4'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      force_backfill:
+        description: 'Backfill historical data since 2016'
+        required: false
+        default: 'false'
+        type: boolean
+
+# Permissions required for Git commit and GitHub Pages deployment
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  scrape-build-and-deploy:
+    runs-on: ubuntu-latest
+    name: Scrape Market Data, Build & Deploy to Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout Codebase
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Execute Ranked EOD Scraper Pipeline
+        run: npm run collect:eod
+
+      - name: Setup GitHub Pages Config
+        uses: actions/configure-pages@v5
+
+      - name: Production Vite Build
+        run: npm run build
+
+      - name: Commit & Store Updated Market Data to Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/eod/ public/data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(data): auto-update NEPSE market dataset [automated]"
+            git push origin HEAD || echo "No remote configured or push permitted"
+          fi
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
