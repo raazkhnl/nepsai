@@ -2,40 +2,40 @@
   "sectors": [
     {
       "sector": "Hydro Power",
-      "indexValue": 3516.47,
-      "change": 6.44,
-      "pChange": 0.18,
-      "turnover": 2111719080.13,
+      "indexValue": 3542.77,
+      "change": 26.3,
+      "pChange": 0.75,
+      "turnover": 2115798357.6,
       "scripCount": 96,
-      "advancers": 65,
-      "decliners": 30,
-      "unchanged": 1,
+      "advancers": 73,
+      "decliners": 20,
+      "unchanged": 3,
       "topGainer": {
         "symbol": "KBSH",
-        "pChange": 15
+        "pChange": 4.91
       }
     },
     {
       "sector": "Commercial Banks",
-      "indexValue": 1498.07,
-      "change": 2.9,
-      "pChange": 0.19,
-      "turnover": 537792179.3,
+      "indexValue": 1517.25,
+      "change": 19.18,
+      "pChange": 1.28,
+      "turnover": 973186126,
       "scripCount": 18,
-      "advancers": 8,
-      "decliners": 9,
-      "unchanged": 1,
+      "advancers": 16,
+      "decliners": 2,
+      "unchanged": 0,
       "topGainer": {
-        "symbol": "SBL",
-        "pChange": 1.18
+        "symbol": "CZBIL",
+        "pChange": 3.37
       }
     },
     {
       "sector": "Manufacturing And Processing",
-      "indexValue": 10556.06,
-      "change": 76.8,
-      "pChange": 0.73,
-      "turnover": 462931492.3,
+      "indexValue": 10595.42,
+      "change": 39.36,
+      "pChange": 0.37,
+      "turnover": 729577882.7,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -47,40 +47,85 @@
     },
     {
       "sector": "Investment",
-      "indexValue": 93.66,
-      "change": 0.14,
-      "pChange": 0.15,
-      "turnover": 153420922.6,
-      "scripCount": 11,
-      "advancers": 5,
+      "indexValue": 93.82,
+      "change": 0.16,
+      "pChange": 0.17,
+      "turnover": 180555314.2,
+      "scripCount": 10,
+      "advancers": 7,
       "decliners": 3,
-      "unchanged": 3,
+      "unchanged": 0,
       "topGainer": {
-        "symbol": "SIGS3",
-        "pChange": 1.27
-      }
-    },
-    {
-      "sector": "Microfinance",
-      "indexValue": 4427.97,
-      "change": -1.29,
-      "pChange": -0.03,
-      "turnover": 153208346.5,
-      "scripCount": 41,
-      "advancers": 27,
-      "decliners": 13,
-      "unchanged": 1,
-      "topGainer": {
-        "symbol": "ILBS",
-        "pChange": 2.58
+        "symbol": "NIMB",
+        "pChange": 1.57
       }
     },
     {
       "sector": "Development Bank Limited",
-      "indexValue": 5338.75,
-      "change": 3.28,
-      "pChange": 0.06,
-      "turnover": 98063290.1,
+      "indexValue": 5371.53,
+      "change": 32.78,
+      "pChange": 0.61,
+      "turnover": 176280933.3,
+      "scripCount": 20,
+      "advancers": 0,
+      "decliners": 0,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "N/A",
+        "pChange": 0
+      }
+    },
+    {
+      "sector": "Microfinance",
+      "indexValue": 4435.85,
+      "change": 7.88,
+      "pChange": 0.18,
+      "turnover": 134097194.9,
+      "scripCount": 41,
+      "advancers": 25,
+      "decliners": 15,
+      "unchanged": 1,
+      "topGainer": {
+        "symbol": "SLBSL",
+        "pChange": 3.31
+      }
+    },
+    {
+      "sector": "Finance",
+      "indexValue": 2183.35,
+      "change": 7.19,
+      "pChange": 0.33,
+      "turnover": 124500122.6,
+      "scripCount": 17,
+      "advancers": 10,
+      "decliners": 7,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "MFIL",
+        "pChange": 3.01
+      }
+    },
+    {
+      "sector": "Others",
+      "indexValue": 1790.54,
+      "change": 5.1,
+      "pChange": 0.29,
+      "turnover": 83313278.4,
+      "scripCount": 62,
+      "advancers": 38,
+      "decliners": 15,
+      "unchanged": 9,
+      "topGainer": {
+        "symbol": "SINDU",
+        "pChange": 4.22
+      }
+    },
+    {
+      "sector": "Hotels And Tourism",
+      "indexValue": 6971.79,
+      "change": 62.72,
+      "pChange": 0.91,
+      "turnover": 82382969.8,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -92,10 +137,10 @@
     },
     {
       "sector": "Corporate Debenture",
-      "indexValue": 2214.2,
+      "indexValue": 3195.7,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 97980114.2,
+      "turnover": 74918595.7,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -107,115 +152,70 @@
     },
     {
       "sector": "Life Insurance",
-      "indexValue": 11560.66,
-      "change": -11.18,
-      "pChange": -0.1,
-      "turnover": 71534520.1,
+      "indexValue": 11612.14,
+      "change": 51.48,
+      "pChange": 0.45,
+      "turnover": 62161453.9,
       "scripCount": 14,
-      "advancers": 10,
-      "decliners": 3,
-      "unchanged": 1,
+      "advancers": 13,
+      "decliners": 1,
+      "unchanged": 0,
       "topGainer": {
         "symbol": "SRLI",
-        "pChange": 1.3
-      }
-    },
-    {
-      "sector": "Finance",
-      "indexValue": 2176.16,
-      "change": -0.58,
-      "pChange": -0.03,
-      "turnover": 69496301,
-      "scripCount": 17,
-      "advancers": 8,
-      "decliners": 9,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "SMB",
-        "pChange": 1.18
-      }
-    },
-    {
-      "sector": "Hotels And Tourism",
-      "indexValue": 6909.07,
-      "change": -27.52,
-      "pChange": -0.4,
-      "turnover": 58689492.5,
-      "scripCount": 20,
-      "advancers": 0,
-      "decliners": 0,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "N/A",
-        "pChange": 0
-      }
-    },
-    {
-      "sector": "Others",
-      "indexValue": 1785.44,
-      "change": -7.9,
-      "pChange": -0.44,
-      "turnover": 46983353.5,
-      "scripCount": 61,
-      "advancers": 37,
-      "decliners": 17,
-      "unchanged": 7,
-      "topGainer": {
-        "symbol": "SNORL",
-        "pChange": 6.4
+        "pChange": 1.36
       }
     },
     {
       "sector": "Non-Life Insurance",
-      "indexValue": 9363.77,
-      "change": 16.05,
-      "pChange": 0.17,
-      "turnover": 36633371.5,
+      "indexValue": 9381.18,
+      "change": 17.41,
+      "pChange": 0.19,
+      "turnover": 35385880.4,
       "scripCount": 15,
-      "advancers": 8,
-      "decliners": 7,
-      "unchanged": 0,
+      "advancers": 9,
+      "decliners": 5,
+      "unchanged": 1,
       "topGainer": {
-        "symbol": "SPIL",
-        "pChange": 2.5
+        "symbol": "NMIC",
+        "pChange": 1.92
       }
     },
     {
       "sector": "Promotor Share",
-      "indexValue": 4444.3,
+      "indexValue": 3987.74,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 19237344.3,
-      "scripCount": 5,
-      "advancers": 3,
-      "decliners": 1,
-      "unchanged": 1,
+      "turnover": 32014387.74,
+      "scripCount": 7,
+      "advancers": 4,
+      "decliners": 0,
+      "unchanged": 3,
       "topGainer": {
-        "symbol": "HEIP",
-        "pChange": 2.99
+        "symbol": "NADEP",
+        "pChange": 2.45
       }
     },
     {
       "sector": "Tradings",
-      "indexValue": 3165.83,
-      "change": -15.34,
-      "pChange": -0.48,
-      "turnover": 6571394.3,
+      "indexValue": 3177.82,
+      "change": 11.99,
+      "pChange": 0.38,
+      "turnover": 28181809.3,
       "scripCount": 2,
-      "advancers": 1,
-      "decliners": 1,
+      "advancers": 2,
+      "decliners": 0,
       "unchanged": 0,
       "topGainer": {
-        "symbol": "BBC",
-        "pChange": -0.38
+        "symbol": "STC",
+        "pChange": 1.66
       }
     },
     {
       "sector": "Mutual Fund",
-      "indexValue": 19.48,
-      "change": 0.01,
-      "pChange": 0.05,
-      "turnover": 6299750.43,
+      "indexValue": 19.55,
+      "change": 0.07,
+      "pChange": 0.36,
+      "turnover": 5368770.25,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
