@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13 24:04:05 NPT",
+  "generatedAt": "2026-10-13 02:02:16 NPT",
   "sessionDate": "2026-10-13",
-  "executionTimeMs": 1702,
+  "executionTimeMs": 2839,
   "report": {
-    "timestamp": "2026-10-13 24:04:05 NPT",
+    "timestamp": "2026-10-13 02:02:16 NPT",
     "sessionDate": "2026-10-13",
     "merolaganiCount": 354,
     "nepaliPaisaCount": 354,
@@ -26,7 +26,7 @@
     "overallTurnoverNpr": 4465246360.73,
     "overallVolume": 12719734,
     "overallTransactions": 49809,
-    "executionTimeMs": 1571
+    "executionTimeMs": 2779
   },
   "marketSummary": {
     "nepseIndex": 2595.81,
@@ -43,7 +43,7 @@
     "decliners": 146,
     "unchanged": 36,
     "marketStatus": "CLOSED",
-    "lastUpdated": "24:04:05"
+    "lastUpdated": "02:02:16"
   },
   "totalStocks": 368,
   "totalSectors": 15
