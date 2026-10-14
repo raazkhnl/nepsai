@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14 19:52:59 NPT",
+  "generatedAt": "2026-10-14 21:35:01 NPT",
   "sessionDate": "2026-10-14",
   "executionTimeMs": 1906,
   "report": {
-    "timestamp": "2026-10-14 19:52:59 NPT",
+    "timestamp": "2026-10-14 21:35:01 NPT",
     "sessionDate": "2026-10-14",
     "merolaganiCount": 354,
     "nepaliPaisaCount": 354,
@@ -40,7 +40,7 @@
     "decliners": 84,
     "unchanged": 30,
     "marketStatus": "CLOSED",
-    "lastUpdated": "19:52:59"
+    "lastUpdated": "21:35:01"
   },
   "totalStocks": 368,
   "totalSectors": 15
