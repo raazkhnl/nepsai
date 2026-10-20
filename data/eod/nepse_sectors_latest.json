@@ -6,13 +6,13 @@
       "change": 18.55,
       "pChange": 0.52,
       "turnover": 2279511793.96,
-      "scripCount": 31,
-      "advancers": 21,
-      "decliners": 9,
-      "unchanged": 1,
+      "scripCount": 97,
+      "advancers": 65,
+      "decliners": 30,
+      "unchanged": 2,
       "topGainer": {
-        "symbol": "GHL",
-        "pChange": 2.27
+        "symbol": "CKHL",
+        "pChange": 14.82
       }
     },
     {
@@ -51,13 +51,13 @@
       "change": -0.08,
       "pChange": -0.08,
       "turnover": 157855303.7,
-      "scripCount": 5,
-      "advancers": 1,
-      "decliners": 3,
-      "unchanged": 1,
+      "scripCount": 10,
+      "advancers": 3,
+      "decliners": 5,
+      "unchanged": 2,
       "topGainer": {
-        "symbol": "ENL",
-        "pChange": 2.11
+        "symbol": "NIMB",
+        "pChange": 3.36
       }
     },
     {
@@ -66,13 +66,13 @@
       "change": 23.97,
       "pChange": 0.53,
       "turnover": 125892574.6,
-      "scripCount": 25,
-      "advancers": 15,
-      "decliners": 6,
-      "unchanged": 4,
+      "scripCount": 41,
+      "advancers": 25,
+      "decliners": 11,
+      "unchanged": 5,
       "topGainer": {
-        "symbol": "JSLBB",
-        "pChange": 2.43
+        "symbol": "SMFBS",
+        "pChange": 5.73
       }
     },
     {
@@ -81,10 +81,10 @@
       "change": -5.54,
       "pChange": -0.25,
       "turnover": 124806045.3,
-      "scripCount": 9,
-      "advancers": 6,
-      "decliners": 3,
-      "unchanged": 0,
+      "scripCount": 17,
+      "advancers": 8,
+      "decliners": 8,
+      "unchanged": 1,
       "topGainer": {
         "symbol": "JFL",
         "pChange": 2.21
@@ -111,9 +111,9 @@
       "change": 8.03,
       "pChange": 0.07,
       "turnover": 122250840.6,
-      "scripCount": 8,
-      "advancers": 7,
-      "decliners": 1,
+      "scripCount": 14,
+      "advancers": 10,
+      "decliners": 4,
       "unchanged": 0,
       "topGainer": {
         "symbol": "ALICL",
@@ -126,9 +126,9 @@
       "change": -13.95,
       "pChange": -0.15,
       "turnover": 82600888.9,
-      "scripCount": 7,
-      "advancers": 6,
-      "decliners": 0,
+      "scripCount": 15,
+      "advancers": 9,
+      "decliners": 5,
       "unchanged": 1,
       "topGainer": {
         "symbol": "SALICO",
@@ -141,13 +141,13 @@
       "change": -5.31,
       "pChange": -0.3,
       "turnover": 80984750.1,
-      "scripCount": 189,
-      "advancers": 110,
-      "decliners": 63,
-      "unchanged": 16,
+      "scripCount": 58,
+      "advancers": 35,
+      "decliners": 15,
+      "unchanged": 8,
       "topGainer": {
-        "symbol": "CKHL",
-        "pChange": 14.82
+        "symbol": "ECL",
+        "pChange": 7.47
       }
     },
     {
