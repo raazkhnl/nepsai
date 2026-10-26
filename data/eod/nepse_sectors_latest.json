@@ -5,7 +5,7 @@
       "indexValue": 3570.62,
       "change": 8.75,
       "pChange": 0.25,
-      "turnover": 1648276360.9,
+      "turnover": 1860724485.7,
       "scripCount": 97,
       "advancers": 58,
       "decliners": 38,
@@ -20,7 +20,7 @@
       "indexValue": 1566.63,
       "change": -7.84,
       "pChange": -0.5,
-      "turnover": 709788570.4,
+      "turnover": 790797179.4,
       "scripCount": 18,
       "advancers": 7,
       "decliners": 10,
@@ -35,7 +35,7 @@
       "indexValue": 10699.67,
       "change": 109.74,
       "pChange": 1.04,
-      "turnover": 586147325.3,
+      "turnover": 635300487.6,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -50,7 +50,7 @@
       "indexValue": 4491.77,
       "change": -15.4,
       "pChange": -0.34,
-      "turnover": 121262788.4,
+      "turnover": 132560435.2,
       "scripCount": 39,
       "advancers": 25,
       "decliners": 13,
@@ -62,10 +62,10 @@
     },
     {
       "sector": "Investment",
-      "indexValue": 2639.9,
-      "change": 12.5,
-      "pChange": 0.55,
-      "turnover": 84133039.9,
+      "indexValue": 94.52,
+      "change": -0.3,
+      "pChange": -0.32,
+      "turnover": 95820974.5,
       "scripCount": 11,
       "advancers": 5,
       "decliners": 4,
@@ -80,7 +80,7 @@
       "indexValue": 5444.1,
       "change": -66.91,
       "pChange": -1.21,
-      "turnover": 82007900,
+      "turnover": 89923517.2,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -95,7 +95,7 @@
       "indexValue": 2191.44,
       "change": -7.86,
       "pChange": -0.36,
-      "turnover": 65926020.5,
+      "turnover": 81929090.8,
       "scripCount": 17,
       "advancers": 9,
       "decliners": 6,
@@ -110,7 +110,7 @@
       "indexValue": 6879.62,
       "change": -33.76,
       "pChange": -0.49,
-      "turnover": 60624748,
+      "turnover": 73973674.5,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -125,7 +125,7 @@
       "indexValue": 11886.38,
       "change": -53.24,
       "pChange": -0.45,
-      "turnover": 58141491.3,
+      "turnover": 63512467.2,
       "scripCount": 14,
       "advancers": 7,
       "decliners": 6,
@@ -136,11 +136,26 @@
       }
     },
     {
+      "sector": "Others",
+      "indexValue": 1770.51,
+      "change": -5.53,
+      "pChange": -0.31,
+      "turnover": 61358337.6,
+      "scripCount": 58,
+      "advancers": 36,
+      "decliners": 18,
+      "unchanged": 4,
+      "topGainer": {
+        "symbol": "MMKJL",
+        "pChange": 5.81
+      }
+    },
+    {
       "sector": "Non-Life Insurance",
       "indexValue": 9510.52,
       "change": -61.86,
       "pChange": -0.65,
-      "turnover": 56253689.6,
+      "turnover": 58655092.2,
       "scripCount": 15,
       "advancers": 4,
       "decliners": 9,
@@ -151,26 +166,11 @@
       }
     },
     {
-      "sector": "Others",
-      "indexValue": 1770.51,
-      "change": -5.53,
-      "pChange": -0.31,
-      "turnover": 55250139.3,
-      "scripCount": 57,
-      "advancers": 36,
-      "decliners": 17,
-      "unchanged": 4,
-      "topGainer": {
-        "symbol": "MMKJL",
-        "pChange": 5.81
-      }
-    },
-    {
       "sector": "Promotor Share",
-      "indexValue": 4556.2,
+      "indexValue": 4139.5,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 37024956.2,
+      "turnover": 38534539.5,
       "scripCount": 4,
       "advancers": 2,
       "decliners": 1,
@@ -182,25 +182,10 @@
     },
     {
       "sector": "Corporate Debenture",
-      "indexValue": 4067.7,
+      "indexValue": 2192.7,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 7224467.7,
-      "scripCount": 20,
-      "advancers": 0,
-      "decliners": 0,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "N/A",
-        "pChange": 0
-      }
-    },
-    {
-      "sector": "Mutual Fund",
-      "indexValue": 19.76,
-      "change": 0.01,
-      "pChange": 0.05,
-      "turnover": 3306689.57,
+      "turnover": 8957592.7,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -212,10 +197,10 @@
     },
     {
       "sector": "Tradings",
-      "indexValue": 4006.4,
-      "change": 12.5,
-      "pChange": 0.55,
-      "turnover": 951906.4,
+      "indexValue": 3223.45,
+      "change": 35.56,
+      "pChange": 1.12,
+      "turnover": 6792893.4,
       "scripCount": 2,
       "advancers": 1,
       "decliners": 1,
@@ -223,6 +208,21 @@
       "topGainer": {
         "symbol": "BBC",
         "pChange": 1.41
+      }
+    },
+    {
+      "sector": "Mutual Fund",
+      "indexValue": 19.76,
+      "change": 0.01,
+      "pChange": 0.05,
+      "turnover": 3580400.57,
+      "scripCount": 20,
+      "advancers": 0,
+      "decliners": 0,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "N/A",
+        "pChange": 0
       }
     }
   ]
