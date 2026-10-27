@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-27 15:16:21 NPT",
+  "generatedAt": "2026-10-27 20:44:48 NPT",
   "sessionDate": "2026-10-27",
-  "executionTimeMs": 1937,
+  "executionTimeMs": 2827,
   "report": {
-    "timestamp": "2026-10-27 15:16:21 NPT",
+    "timestamp": "2026-10-27 20:44:48 NPT",
     "sessionDate": "2026-10-27",
-    "merolaganiCount": 358,
+    "merolaganiCount": 360,
     "nepaliPaisaCount": 360,
     "chukulCount": 355,
-    "canonicalTotal": 370,
+    "canonicalTotal": 374,
     "chukulMissingSymbols": [
-      "RBBD2088",
       "SHINED",
-      "KSBBLD87",
       "ICFCD88",
-      "JBBD87"
+      "KSBBLD87",
+      "JBBD87",
+      "RBBD2088"
     ],
-    "mismatchCountTolerance001": 268,
+    "mismatchCountTolerance001": 2,
     "sectorCount": 15,
-    "indicesCount": 12,
-    "marketCapClassificationsCount": 276,
-    "overallTurnoverNpr": 4393393963.36,
-    "overallVolume": 11599921,
-    "overallTransactions": 40289,
-    "executionTimeMs": 1928
+    "indicesCount": 14,
+    "marketCapClassificationsCount": 279,
+    "overallTurnoverNpr": 5799330203.01,
+    "overallVolume": 15346226,
+    "overallTransactions": 53030,
+    "executionTimeMs": 2819
   },
   "marketSummary": {
     "nepseIndex": 2630.76,
@@ -33,15 +33,15 @@
     "sensitiveChange": 2.15,
     "floatIndex": 182.35,
     "floatChange": 0.95,
-    "totalTurnover": 4393393963.36,
-    "totalSharesTraded": 11599921,
-    "totalTransactions": 40289,
-    "advancers": 195,
-    "decliners": 133,
-    "unchanged": 42,
+    "totalTurnover": 5799330203.01,
+    "totalSharesTraded": 15346226,
+    "totalTransactions": 53030,
+    "advancers": 225,
+    "decliners": 109,
+    "unchanged": 40,
     "marketStatus": "CLOSED",
-    "lastUpdated": "15:16:21"
+    "lastUpdated": "20:44:48"
   },
-  "totalStocks": 370,
+  "totalStocks": 374,
   "totalSectors": 15
 }
