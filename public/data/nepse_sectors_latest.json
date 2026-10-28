@@ -5,7 +5,7 @@
       "indexValue": 3704.71,
       "change": 75.03,
       "pChange": 2.07,
-      "turnover": 4473629240,
+      "turnover": 4533558221.8,
       "scripCount": 97,
       "advancers": 81,
       "decliners": 15,
@@ -20,7 +20,7 @@
       "indexValue": 1582.02,
       "change": 21.28,
       "pChange": 1.36,
-      "turnover": 823107416.1,
+      "turnover": 1102932246.8,
       "scripCount": 18,
       "advancers": 18,
       "decliners": 0,
@@ -35,7 +35,7 @@
       "indexValue": 10715.65,
       "change": 70.4,
       "pChange": 0.66,
-      "turnover": 649087798,
+      "turnover": 596693957.2,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -61,41 +61,11 @@
       }
     },
     {
-      "sector": "Finance",
-      "indexValue": 2221.26,
-      "change": 33.97,
-      "pChange": 1.55,
-      "turnover": 247165279.5,
-      "scripCount": 17,
-      "advancers": 14,
-      "decliners": 3,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "BFC",
-        "pChange": 3.94
-      }
-    },
-    {
-      "sector": "Development Bank Limited",
-      "indexValue": 5479.76,
-      "change": 60.39,
-      "pChange": 1.11,
-      "turnover": 215589039,
-      "scripCount": 20,
-      "advancers": 0,
-      "decliners": 0,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "N/A",
-        "pChange": 0
-      }
-    },
-    {
       "sector": "Microfinance",
       "indexValue": 4531.96,
       "change": 39.42,
       "pChange": 0.88,
-      "turnover": 184856917.7,
+      "turnover": 246134935.3,
       "scripCount": 41,
       "advancers": 28,
       "decliners": 13,
@@ -106,11 +76,41 @@
       }
     },
     {
+      "sector": "Development Bank Limited",
+      "indexValue": 5479.76,
+      "change": 60.39,
+      "pChange": 1.11,
+      "turnover": 158855153.3,
+      "scripCount": 20,
+      "advancers": 0,
+      "decliners": 0,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "N/A",
+        "pChange": 0
+      }
+    },
+    {
+      "sector": "Finance",
+      "indexValue": 2221.26,
+      "change": 33.97,
+      "pChange": 1.55,
+      "turnover": 145864170.8,
+      "scripCount": 17,
+      "advancers": 14,
+      "decliners": 3,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "BFC",
+        "pChange": 3.94
+      }
+    },
+    {
       "sector": "Life Insurance",
       "indexValue": 12003.68,
       "change": 188.21,
       "pChange": 1.59,
-      "turnover": 109285128.9,
+      "turnover": 123652444.2,
       "scripCount": 14,
       "advancers": 13,
       "decliners": 1,
@@ -125,7 +125,7 @@
       "indexValue": 6936.22,
       "change": 91.84,
       "pChange": 1.34,
-      "turnover": 109211055.2,
+      "turnover": 114487826.1,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -140,7 +140,7 @@
       "indexValue": 1786.76,
       "change": 15.11,
       "pChange": 0.85,
-      "turnover": 79020920.8,
+      "turnover": 80372583.3,
       "scripCount": 61,
       "advancers": 45,
       "decliners": 9,
@@ -151,26 +151,11 @@
       }
     },
     {
-      "sector": "Non-Life Insurance",
-      "indexValue": 9547.08,
-      "change": 42.72,
-      "pChange": 0.45,
-      "turnover": 37884873.3,
-      "scripCount": 15,
-      "advancers": 12,
-      "decliners": 2,
-      "unchanged": 1,
-      "topGainer": {
-        "symbol": "NRIC",
-        "pChange": 2.07
-      }
-    },
-    {
       "sector": "Promotor Share",
-      "indexValue": 2228.7,
+      "indexValue": 4215.8,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 15775128.7,
+      "turnover": 45944615.8,
       "scripCount": 4,
       "advancers": 3,
       "decliners": 1,
@@ -181,11 +166,26 @@
       }
     },
     {
+      "sector": "Non-Life Insurance",
+      "indexValue": 9547.08,
+      "change": 42.72,
+      "pChange": 0.45,
+      "turnover": 37875551.9,
+      "scripCount": 15,
+      "advancers": 12,
+      "decliners": 2,
+      "unchanged": 1,
+      "topGainer": {
+        "symbol": "NRIC",
+        "pChange": 2.07
+      }
+    },
+    {
       "sector": "Corporate Debenture",
-      "indexValue": 2726.4,
+      "indexValue": 4462.1,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 6338126.4,
+      "turnover": 7227362.1,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -200,7 +200,7 @@
       "indexValue": 19.93,
       "change": 0.1,
       "pChange": 0.5,
-      "turnover": 5199708,
+      "turnover": 5062752.61,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
