@@ -1,0 +1,365 @@
+symbol,name,sector,ltp,change,pChange,open,high,low,volume,turnover,high52,low52,pe,eps,marketCapBillion,isIndex
+NEPSE,"NEPSE Index (All Share)","Indices",2695.6,31.54,1.18,2660.23,2695.63,2658.78,23258009,8570098823.35,3000.8,1800.5,18.2,0,4435.7,true
+BANKINGIND,"BANKINGIND Sector Sub-Index","Indices",1618.22,36.2,2.29,1574.21,1618.54,1571.48,0,0,1942.2,1257.2,16.5,0,0,true
+DEVBANKIND,"DEVBANKIND Sector Sub-Index","Indices",5564.87,85.11,1.55,5483.09,5565.77,5474.95,0,0,6678.9,4380,16.5,0,0,true
+FINANCEIND,"FINANCEIND Sector Sub-Index","Indices",2258.97,37.71,1.7,2224.1,2258.97,2224.1,0,0,2710.8,1779.3,16.5,0,0,true
+HOTELIND,"HOTELIND Sector Sub-Index","Indices",7078.61,142.39,2.05,6949.1,7078.61,6933.84,0,0,8494.3,5547.1,16.5,0,0,true
+HYDROPOWIND,"HYDROPOWIND Sector Sub-Index","Indices",3718.15,13.44,0.36,3705.9,3735.35,3683.64,0,0,4482.4,2946.9,16.5,0,0,true
+INVIDX,"INVIDX Sector Sub-Index","Indices",96,0.24,0.25,96.55,96.57,95.19,0,0,115.9,76.2,16.5,0,0,true
+LIFEINSUIND,"LIFEINSUIND Sector Sub-Index","Indices",12086.46,82.78,0.69,11995.94,12109.85,11978.84,0,0,14531.8,9583.1,16.5,0,0,true
+MANUFACTUREIND,"MANUFACTUREIND Sector Sub-Index","Indices",10771.36,55.71,0.52,10630.39,10773.08,10630.39,0,0,12927.7,8504.3,16.5,0,0,true
+MICROFININD,"MICROFININD Sector Sub-Index","Indices",4556.49,24.53,0.54,4526.99,4556.52,4521.11,0,0,5467.8,3616.9,16.5,0,0,true
+MUTUALIND,"MUTUALIND Sector Sub-Index","Indices",19.98,0.05,0.25,19.91,20,19.82,0,0,24,15.9,16.5,0,0,true
+NONLIFEIND,"NONLIFEIND Sector Sub-Index","Indices",9559.94,12.86,0.13,9547.08,9587.65,9456.95,0,0,11505.2,7565.6,16.5,0,0,true
+OTHERSIND,"OTHERSIND Sector Sub-Index","Indices",1830.69,43.93,2.46,1786.76,1830.69,1781.81,0,0,2196.8,1425.4,16.5,0,0,true
+TRADINGIND,"TRADINGIND Sector Sub-Index","Indices",3201.8,0.97,0.03,3200.83,3228.82,3187.91,0,0,3874.6,2550.3,16.5,0,0,true
+GHL,"Ghalemdi Hydro Limited","Hydro Power",335,9,2.76,326,340,326,1064075,356168505,425,244.5,33,47,50.25,false
+SBL,"Siddhartha Bank Limited","Commercial Banks",454.8,15.8,4.31,439,455,438.4,566094,253839289.4,568.8,328.8,20,41,68.22,false
+LSL,"Laxmi Sunrise Bank Limited","Commercial Banks",281,13,2.93,268,284,268,869367,242792905.1,355,201,13,18,42.15,false
+KBL,"Kumari Bank Limited","Commercial Banks",243.1,4.1,1.29,239,246.8,238.2,973271,235955433.2,308.5,178.6,12,41,36.47,false
+GVL,"Green Ventures Limited","Others",581.2,6.2,0.54,575,586,575,398988,231872104.5,732.5,431.3,33,21,87.18,false
+SOHL,"Solu Hydropower Limited","Hydro Power",659,9,1.54,650,662,645.5,294673,193502778.9,827.5,484.1,20,54,98.85,false
+NIMB,"Nepal Investment Mega Bank Limited","Investment",213.8,6.8,3.09,207,215,207,885386,187463905.7,268.8,155.3,15,48,32.07,false
+SHIVM,"SHIVAM CEMENTS LTD","Manufacturing & Processing",699,-1,0.16,700,708,697.1,259967,182198526.4,885,522.8,20,47,104.85,false
+SANIMA,"Sanima Bank Limited","Commercial Banks",417,7,1.86,410,418,408,423667,175050277.5,522.5,306,20,40,62.55,false
+BPCL,"Butwal Power Company Limited","Hydro Power",727.1,10.1,1.14,717,740,710,224633,162640443.5,925,532.5,28,15,109.06,false
+PHCL,"Peoples Hydropower Company Limited","Hydro Power",363.3,-2.2,-1.28,365.5,367.1,360,439417,159889249.7,458.9,270,17,47,54.49,false
+TAMOR,"Sanima Middle Tamor Hydropower Limited","Hydro Power",601.8,8.8,1.48,593,603,593,264286,158286403.2,753.8,444.8,21,40,90.27,false
+API,"Api Power Company Ltd.","Hydro Power",348,-2,-0.51,350,352.3,346.5,427889,149230564.2,440.4,259.9,27,15,52.2,false
+LEC,"Liberty Energy Company Limited","Hydro Power",242,-9,-3.2,251,252,242,601733,147513892,315,181.5,13,44,36.3,false
+GBIME,"Global IME Bank Limited","Commercial Banks",261,5.1,1.99,255.9,262,254.3,564735,146140708.3,327.5,190.7,33,41,39.15,false
+MBL,"Machhapuchhre Bank Limited","Commercial Banks",278.5,0.6,0.54,277.9,290.4,275,497840,138430656.5,363,206.3,14,41,41.77,false
+NBL,"Nepal Bank Limited","Commercial Banks",312.9,6.9,2.25,306,314.1,305,417985,129219003.6,392.6,228.8,15,41,46.94,false
+BHL,"Balephi Hydropower Limited","Hydro Power",234.5,3.6,-1.43,230.9,243,230.9,531201,125536097.8,303.8,173.2,28,47,35.17,false
+ADBL,"Agricultural Development Bank Limited","Commercial Banks",348.9,10.9,2.95,338,350,335,344229,118159577.1,437.5,251.3,27,43,52.34,false
+CZBIL,"Citizens Bank International Limited","Commercial Banks",225.5,7.5,3.44,218,226.8,218,505551,112513573.8,283.5,163.5,29,25,33.83,false
+LBBL,"Lumbini Bikas Bank Ltd.","Development Banks",514,20,3.84,494,516,493,223081,112363042.7,645,369.8,13,41,77.1,false
+NMB,"NMB Bank Limited","Commercial Banks",282.8,4.8,3.21,278,283,275,400762,111812345.2,353.8,206.3,15,52,42.42,false
+HPPL,"Himalayan Power Partner Ltd.","Hydro Power",418.9,-1.1,-0.21,420,425,416.4,252525,106190882.4,531.3,312.3,34,15,62.84,false
+SONA,"Sonapur Minerals And Oil Limited","Manufacturing & Processing",472.9,7.9,0.21,465,477,460.3,221442,103362015.6,596.3,345.2,20,54,70.94,false
+RSML,"Reliance Spinning Mills Limited","Others",2706,64,0.07,2642,2715,2642,37820,101308883.1,3393.8,1981.5,19,18,81.18,false
+SBI,"Nepal SBI Bank Limited","Commercial Banks",449.8,14.8,2.69,435,449.8,433.8,223757,98672324.1,562.3,325.4,20,41,67.47,false
+PCBL,"Prime Commercial Bank Ltd.","Commercial Banks",281.5,7.5,2.81,274,283,274,349535,97559521.9,353.8,205.5,17,42,42.23,false
+CFCL,"Central Finance Co. Ltd.","Finance",585.2,20.2,2.45,565,587,565,158736,92423965.7,733.8,423.8,29,45,87.78,false
+HDL,"Himalayan Distillery Limited","Manufacturing & Processing",1333,22,0.08,1311,1342,1311,67788,90444193.8,1677.5,983.3,34,43,39.99,false
+NGPL,"Ngadi Group Power Ltd.","Hydro Power",414.7,-1.1,-0.26,415.8,418,409.2,206683,85271714.1,522.5,306.9,15,46,62.2,false
+SGHC,"Swet-Ganga Hydropower & Construction Limited","Hydro Power",319.9,9.9,4.24,310,325,310,263874,84161924,406.3,232.5,20,46,47.98,false
+SHL,"Soaltee Hotel Limited","Hotels & Tourism",538.7,13.7,3.64,525,540,521,158058,83791582.2,675,390.8,20,47,80.81,false
+AKJCL,"Ankhu Khola Jalvidhyut Company Ltd","Others",345,-5,-0.29,350,350,343.3,241660,83581607.8,437.5,257.5,27,50,51.75,false
+NRN,"NRN Infrastructure and Development Limited","Investment",1397,-10,-3.65,1407,1415,1382,58182,81111680.7,1768.8,1036.5,15,17,41.91,false
+SADBL,"Shangrila Development Bank Ltd.","Development Banks",408.8,0.8,-0.02,408,410.9,400,189010,76465331.8,513.6,300,20,40,61.32,false
+NICA,"NIC Asia Bank Ltd.","Commercial Banks",335,15,4.69,320,335.9,320,229197,75491889.5,419.9,240,15,48,50.25,false
+HATHY,"Hathway Investment Nepal Limited","Investment",425,11,2.91,414,427.9,412.5,175213,73311497.8,534.9,309.4,34,40,63.75,false
+SAHAS,"Sahas Urja Limited","Hydro Power",718,8,1.21,710,720,707,99073,70903236.2,900,530.3,20,40,21.54,false
+PRVU,"Prabhu  Bank Limited","Commercial Banks",197,-3.5,2.98,200.5,200.5,191,364407,70852799.5,250.6,143.3,17,17,29.55,false
+RIDI,"Ridi Power Company Limited","Hydro Power",340,-1,-0.03,341,344,338.2,195246,66449130.6,430,253.6,19,48,51,false
+BHCL,"Bikash Hydropower Company Limited","Hydro Power",561.9,-5.1,-0.99,567,574,555,115459,64538625.1,717.5,416.3,28,47,84.28,false
+MEN,"Mountain Energy Nepal Limited","Hydro Power",592.1,-2.9,0.32,595,596.9,591,106020,62947953.1,746.1,443.3,14,44,88.81,false
+MBJC,"Madhya Bhotekoshi Jalavidyut Company Limited","Others",338.9,1.9,-0.32,337,342,330.1,179018,60616821.3,427.5,247.6,14,41,50.84,false
+MSHL,"Mid Solu Hydropower Limited","Hydro Power",550,14,3.46,536,559,530.2,109985,59382234.9,698.8,397.7,14,18,82.5,false
+HBL,"Himalayan Bank Limited","Commercial Banks",210.9,5.9,3.03,205,211,202,275369,57096845.3,263.8,151.5,34,41,31.64,false
+SHPC,"Sanima Mai Hydropower Ltd.","Hydro Power",558,-2,-0.36,560,566,552.2,101530,56816342.5,707.5,414.2,20,47,83.7,false
+SMHL,"Super Madi Hydropower Limited","Hydro Power",519,-1,-0.57,520,526,512,109243,56481304.6,657.5,384,20,52,77.85,false
+JBBL,"Jyoti Bikas Bank Limited","Development Banks",364,9,2.56,355,364,354,143565,51616392.6,455,265.5,36,41,54.6,false
+SOPL,"Sopan Pharmaceuticals Limited","Others",673,54,8.72,619,676.7,619,76828,50411991.3,845.9,464.3,20,54,20.19,false
+GBBL,"Garima Bikas Bank Limited","Development Banks",422,7.2,2.13,414.8,423,414.8,118310,49517947.2,528.8,311.1,33,41,63.3,false
+NHPC,"National Hydro Power Company Limited","Hydro Power",264.8,-1.2,-0.26,266,268.9,263,185660,49240884.5,336.1,197.3,15,47,39.72,false
+HURJA,"Himalaya Urja Bikas Company Limited","Hydro Power",269.9,-2.3,-1.46,272.2,274,267.2,167626,45266747.5,342.5,200.4,34,20,40.48,false
+SHEL,"Singati Hydro Energy Limited","Hydro Power",315.8,1.8,0.57,314,320,310.1,142790,45123656.3,400,232.6,20,47,47.37,false
+HDHPC,"Himal Dolakha Hydropower Company Limited","Hydro Power",224,-3.3,-0.62,227.3,227.3,223,195987,44005586.9,284.1,167.3,34,43,33.6,false
+SSHL,"Shiva Shree Hydropower Ltd","Hydro Power",212,-3,-0.56,215,215.9,209.2,206182,43771441.4,269.9,156.9,20,18,31.8,false
+UMHL,"United Modi Hydropower Ltd.","Hydro Power",573,3,-1.38,570,592.2,570,72718,41867594.6,740.3,427.5,22,52,17.19,false
+MAKAR,"Makar Jitumaya Suri Hydropower Limited","Hydro Power",430.5,-4.5,-1.03,435,439.9,426,96779,41744568.5,549.9,319.5,14,40,12.91,false
+CHDC,"CEDB Holdings Limited","Investment",2335,21,0.91,2314,2350,2311,17304,40223783.7,2937.5,1733.3,29,47,70.05,false
+NABIL,"Nabil Bank Limited","Commercial Banks",552,34,1.28,518,552.9,518,72855,40132445.7,691.1,388.5,15,40,16.56,false
+RFPL,"River Falls Power Limited","Hydro Power",364.8,6,1.67,358.8,365,358.8,106815,38685892.6,456.3,269.1,19,45,54.72,false
+GLH,"GreenLife Hydropower Limited","Hydro Power",276,-1,-1.08,277,281,273,136755,37769186.7,351.3,204.8,33,51,41.4,false
+KKHC,"Khanikhola Hydropower Co. Ltd.","Hydro Power",269,-1,0.41,270,274.7,264,139470,37679302.8,343.4,198,12,50,40.35,false
+AKPL,"Arun Kabeli Power Ltd.","Hydro Power",265.9,-2.1,-0.78,268,268.4,264.1,139301,37003177.3,335.5,198.1,27,50,39.88,false
+NTC,"Nepal Doorsanchar Company Limited","Others",924.1,4.1,0.61,920,926.9,920,39680,36677460.7,1158.6,690,15,19,27.72,false
+MLBL,"Mahalaxmi Bikas Bank Ltd.","Development Banks",385,11.8,2.07,373.2,386,373.2,91935,34921026.2,482.5,279.9,14,51,11.55,false
+HRL,"Himalayan Reinsurance Limited","Non-Life Insurance",478.8,11.8,2.31,467,485.9,467,72046,34537218.2,607.4,350.3,34,17,14.36,false
+RADHI,"Radhi Bidyut Company Ltd","Hydro Power",731,-39,-0.34,770,770,710.1,46069,33653182.6,962.5,532.6,19,40,21.93,false
+SYPNL,"SY Panel Nepal Limited","Others",1300,74.5,0.78,1225.5,1309,1225.5,25142,32321368,1636.3,919.1,20,24,39,false
+NRIC,"Nepal Reinsurance Company Limited","Non-Life Insurance",834.3,44.3,5.61,790,834.3,780,39056,31518051.2,1042.9,585,15,17,25.03,false
+AHPC,"Arun Valley Hydropower Development Co. Ltd.","Hydro Power",268,-1.1,-0.7,269.1,272,266,114708,30754788.8,340,199.5,27,47,40.2,false
+ECL,"Everest Colour Limited","Others",1285,67,0.63,1218,1310,1218,24136,30737255.7,1637.5,913.5,31,42,38.55,false
+TPC,"Terhathum Power Company Limited","Hydro Power",387.7,0.7,0.44,387,389.5,379,78605,30240369.5,486.9,284.3,21,15,11.63,false
+DORDI,"Dordi Khola Jal Bidyut Company Limited","Others",284,-1.1,-0.39,285.1,286,278,106081,29801509.2,357.5,208.5,30,54,42.6,false
+HIDCLP,"Hydorelectricity Investment and Development Company Limited Promoter","Promotor Share",194,0,0,194,197.6,191.8,142715,27756239,247,143.9,34,48,29.1,false
+USHEC,"Upper Solu Hydro Electric Company Limited","Hydro Power",532.9,10.81,1.5,522.09,533,520,51182,27039073.9,666.3,390,22,18,15.99,false
+UPCL,"UNIVERSAL POWER COMPANY LTD","Hydro Power",350,-3.9,0,353.9,353.9,345.1,76161,26467530.5,442.4,258.8,22,15,10.5,false
+HHL,"Himalayan Hydropower Limited","Hydro Power",367,1,-0.81,366,378.9,361,71224,26373169.1,473.6,270.8,34,47,11.01,false
+EBL,"Everest Bank Limited","Commercial Banks",728,5,0.96,723,730,723,35935,26088771.6,912.5,542.3,31,41,21.84,false
+SPDL,"Synergy Power Development Ltd.","Hydro Power",370,-5,0,375,375,363.1,69639,25622673.1,468.8,272.3,20,15,11.1,false
+LSLPO,"Laxmi Sunrise Bank Limited Promoter Share","Promotor Share",142.6,0,-2.99,142.6,142.6,142.6,176588,25181448.8,178.3,106.9,13,18,21.39,false
+KDL,"Kalinchowk Darshan Limited","Others",535,-10,0.94,545,545,530,46664,24992693.3,681.3,397.5,12,43,16.05,false
+DDBL,"Deprosc Laghubitta Bittiya Sanstha Limited","Microfinance",877,4,0.46,873,879,869,28338,24728104.4,1098.8,651.8,30,43,26.31,false
+CITY,"City Hotel Limited","Hotels & Tourism",329.1,3.1,1.26,326,333,326,73961,24346567,416.3,244.5,29,48,9.87,false
+PCIL,"Palpa Cement Industries Limited","Manufacturing & Processing",622,2,0.48,620,628,615.2,37798,23444347,785,461.4,17,42,18.66,false
+BFC,"Best Finance Company Ltd.","Finance",463,-4.9,0.87,467.9,469.5,460,48533,22497636.3,586.9,345,28,45,13.89,false
+SMJC,"Sagarmatha Jalabidhyut Company Limited","Hydro Power",443.2,-2.8,-0.63,446,448,437,50404,22292666.4,560,327.8,20,52,13.3,false
+UPPER,"Upper Tamakoshi Hydropower Ltd","Hydro Power",195.9,-4.1,-0.05,200,200,194,112267,21994593.9,250,145.5,22,15,29.39,false
+RNLI,"Reliable Nepal Life Insurance Limited","Life Insurance",458.9,-1,-0.22,459.9,460.5,454.1,48024,21910551.7,575.6,340.6,19,53,13.77,false
+SARBTM,"Sarbottam Cement Limited","Manufacturing & Processing",821,7,0.86,814,821,810,26586,21729093.1,1026.3,607.5,20,40,24.63,false
+ALICL,"Asian Life Insurance Co. Limited","Life Insurance",435.5,0.5,0.37,435,437.9,432,49776,21656997.3,547.4,324,27,51,13.06,false
+SCB,"Standard Chartered Bank Limited","Commercial Banks",683,3,0.44,680,683,679,31742,21600733.5,853.8,509.3,20,42,20.49,false
+SNLI,"Sun Nepal Life Insurance Company Limited","Life Insurance",434.8,11.7,1.83,423.1,435,423.1,47217,20320557.2,543.8,317.3,20,53,13.04,false
+SRLI,"Sanima Reliance Life Insurance Limited","Life Insurance",391.6,7,1.82,384.6,394.9,383.5,52270,20255741.9,493.6,287.6,20,17,11.75,false
+HIDCL,"Hydorelectricity Investment and Development Company Ltd","Investment",258.6,-9.4,0.43,268,268,255,78630,20250714.2,335,191.3,34,48,7.76,false
+NIFRA,"Nepal Infrastructure Bank Limited","Investment",252,2,0.8,250,252.9,249,80051,20051596.9,316.1,186.8,15,48,7.56,false
+MEHL,"Manakamana Engineering Hydropower Limited","Hydro Power",250.1,-2.4,-0.95,252.5,255.9,249,79798,19993412.8,319.9,186.8,14,44,7.5,false
+PPL,"People's Power Limited","Hydro Power",331,11.8,-1.49,319.2,339.5,319.2,59797,19848813.7,424.4,239.4,17,15,9.93,false
+BGWT,"Bhagawati Hydropower Development Company Limited","Hydro Power",530,16.5,3.21,513.5,530,505,37593,19675007.3,662.5,378.8,28,46,15.9,false
+CHCL,"Chilime Hydropower Company Limited","Hydro Power",352,1,0.57,351,358.6,345.3,55745,19579157.8,448.3,259,29,47,10.56,false
+SGHL,"Sanigad Hydro Limited","Hydro Power",478.8,-5.2,-1.07,484,485,472,40883,19551764.1,606.3,354,20,46,14.36,false
+CBBL,"Chhimek Laghubitta Bittiya Sanstha Limited","Microfinance",994,-1,0.11,995,998,988.3,19691,19533990.9,1247.5,741.2,29,41,29.82,false
+ENL,"Emerging Nepal Limited","Investment",495,30,1.46,465,499,465,38781,19032292,623.8,348.8,31,53,14.85,false
+RHPL,"RASUWAGADHI HYDROPOWER COMPANY LIMITED","Hydro Power",167,-2.7,-1.59,169.7,171.8,166,112513,18962499.5,214.8,124.5,19,47,25.05,false
+GCIL,"Ghorahi Cement Industry Limited","Manufacturing & Processing",398,-3.1,-0.75,401.1,408,395.1,47136,18887422.2,510,296.3,33,42,11.94,false
+HLI,"Himalayan Life Insurance Limited","Life Insurance",306,-1,-0.33,307,311.8,305,60489,18629017.6,389.8,228.8,34,51,9.18,false
+NICL,"Nepal Insurance Co. Ltd.","Non-Life Insurance",440,-10,-1.54,450,450,435,42365,18479013.3,562.5,326.3,15,48,13.2,false
+KSBBL,"Kamana Sewa Bikas Bank Limited","Development Banks",475,5,0.21,470,475.1,470,38562,18250187.5,593.9,352.5,12,18,14.25,false
+MFIL,"Manjushree Finance Ltd.","Finance",715.1,-1.9,-0.13,717,723.9,714,25194,18048532.8,904.9,535.5,14,45,21.45,false
+NLICL,"National Life Insurance Co. Ltd.","Life Insurance",588,8.1,1.4,579.9,592,579.9,30088,17699431.7,740,434.9,15,51,17.64,false
+ALBSL,"Asha Laghubitta Bittiya Sanstha Ltd","Microfinance",1215,38,1.25,1177,1238.8,1177,13838,16567378.5,1548.5,882.8,27,51,36.45,false
+HEI,"Himalayan Everest Insurance Limited","Non-Life Insurance",436,-4,-0.39,440,440,430,37655,16390573.5,550,322.5,34,44,13.08,false
+BANDIPUR,"Bandipur Cablecar and Tourism Limited","Hotels & Tourism",589.7,29.7,3,560,589.9,560,27315,15793015.2,737.4,420,28,40,17.69,false
+MPFL,"Multipurpose Finance Company  Limited","Finance",600,5,1.87,595,600,580,26640,15719938,750,435,14,15,18,false
+RLFL,"Reliance Finance Ltd.","Finance",429.7,27.2,1.44,402.5,429.9,402.5,37033,15649265.7,537.4,301.9,19,51,12.89,false
+NLIC,"Nepal Life Insurance Co. Ltd.","Life Insurance",752,-2,0.55,754,757.7,745,20688,15513374.8,947.1,558.8,15,51,22.56,false
+CREST,"Crest Micro Life Insurance Limited","Life Insurance",1070,41,2.88,1029,1080,1029,14635,15403358.4,1350,771.8,29,17,32.1,false
+UNHPL,"Union Hydropower Limited","Hydro Power",374,-4,-0.93,378,381,368,40897,15323568.5,476.3,276,22,53,11.22,false
+SAPIL,"Sarvottam Paints Industries Limited","Others",1144,-20,-1.79,1164,1169,1122.1,13466,15283797.8,1461.3,841.6,20,40,34.32,false
+YMHL,"Yambaling Hydropower Limited","Hydro Power",474,20,4.41,454,474.8,454,32359,15162476.8,593.5,340.5,26,52,14.22,false
+MNBBL,"Muktinath Bikas Bank Ltd.","Development Banks",345.5,3.5,1.62,342,347.9,342,43118,14860160.8,434.9,256.5,14,53,10.37,false
+SHINE,"Shine Resunga Development Bank Ltd.","Development Banks",417,5,1.19,412,421.9,411.2,35389,14752978.4,527.4,308.4,20,47,12.51,false
+CIT,"Citizen Investment Trust","Investment",1743,4.9,0.29,1738.1,1745,1731,8465,14716581.6,2181.3,1298.3,29,48,52.29,false
+SJLIC,"SuryaJyoti Life Insurance Company Limited","Life Insurance",437.2,9.2,0.97,428,440,428,33609,14599551.9,550,321,20,49,13.12,false
+TPKHL,"Taksar Pikhuwa Khola Hydropower Limited","Hydro Power",449.8,5.3,-0.04,444.5,462.9,442,32195,14475114.1,578.6,331.5,21,15,13.49,false
+CLI,"Citizen Life Insurance Company Limited","Life Insurance",449,7.5,1.7,441.5,452,440,31869,14303383.4,565,330,29,51,13.47,false
+KAHL,"Kalanga Hydro Limited","Hydro Power",444.1,29.1,2.05,415,455,415,31935,14266570.4,568.8,311.3,12,40,13.32,false
+MDB,"Miteri Development Bank Limited","Development Banks",575,2.4,1.77,572.6,575,566.2,23855,13605410.9,718.8,424.7,14,43,17.25,false
+NABBC,"Narayani Development Bank Limited","Development Banks",680,-7,-0.99,687,700,675,19723,13446634,875,506.3,15,40,20.4,false
+ICFC,"ICFC Finance Limited","Finance",632.8,-2.2,0.76,635,637.8,626.1,20411,12902315.1,797.3,469.6,35,42,18.98,false
+HFIN,"Hotel Forest Inn Limited","Hotels & Tourism",539,-1,-0.11,540,549,534.5,23250,12592847.1,686.3,400.9,34,45,16.17,false
+CGH,"Chandragiri Hills Limited","Hotels & Tourism",747,-2.9,0.67,749.9,752,740,16342,12177781.4,940,555,29,46,22.41,false
+KBSH,"Kutheli Bukhari Small Hydropower Limited","Hydro Power",914.9,-13.1,0.84,928,928,900.1,13334,12115192.9,1160,675.1,12,41,27.45,false
+FMDBL,"First Micro Finance Laghubitta Bittiya Sanstha Limited","Finance",732,6,1.39,726,735,717,16705,12078550.5,918.8,537.8,32,52,21.96,false
+SRLIP,"Sanima Reliance Life Insurance Limited Promoter Share","Promotor Share",196,0,0,196,196,196,60659,11889164,245,147,20,17,5.88,false
+UHEWA,"Upper Hewakhola Hydropower Company Limited","Hydro Power",598,3,0.34,595,600.5,595,19889,11885877.6,750.6,446.3,22,47,17.94,false
+BARUN,"Barun Hydropower Co. Ltd.","Hydro Power",326.3,-5.5,-1.66,331.8,333.5,326,35184,11541008.1,416.9,244.5,28,40,9.79,false
+DHEL,"Daramkhola Hydro Energy Limited","Hydro Power",524.5,15.5,1.84,509,524.6,506,21650,11254501.1,655.8,379.5,30,47,15.73,false
+UAIL,"United Ajod Insurance Limited","Non-Life Insurance",369.5,1.6,0.43,367.9,375,365,30029,11098815.4,468.8,273.8,22,40,11.09,false
+SNORL,"Snow Rivers Limited","Others",816.9,1.9,0.23,815,839,800.1,13075,10627245.6,1048.8,600.1,20,53,24.51,false
+RLEL,"Ridge Line Energy Limited","Others",662,17,1.86,645,665,645,15257,10012808.1,831.3,483.8,19,51,19.86,false
+KHPL,"Kalinchock Hydropower Limited","Hydro Power",663,59.7,4.41,603.3,666,603.3,14642,9617897.5,832.5,452.5,12,47,19.89,false
+LICN,"Life Insurance Corporation (Nepal) Limited","Life Insurance",810,-7,-0.6,817,817,806.3,11621,9443759,1021.3,604.7,13,48,24.3,false
+BUNGAL,"Bungal Hydro Limited","Hydro Power",472,-3,0,475,479,467,19813,9364895.1,598.8,350.3,28,20,14.16,false
+SANVI,"Sanvi Energy Limited","Others",514.9,-6.1,-0.79,521,527,502,18253,9328300.5,658.8,376.5,20,40,15.45,false
+SALICO,"Sagarmatha Lumbini Insurance Co. Limited","Non-Life Insurance",525,-5,-0.94,530,530,514,17981,9322275.4,662.5,385.5,20,40,15.75,false
+MEPDL,"Mount Everest Power Development Limited","Hydro Power",599,9,0.35,590,604.9,583.2,15605,9222044,756.1,437.4,14,44,17.97,false
+BHDC,"Bindhyabasini Hydropower Development Company Limited","Hydro Power",426.7,-1.3,-0.47,428,434.5,423,21664,9190335.6,543.1,317.3,28,47,12.8,false
+MHNL,"Mountain Hydro Nepal Limited","Hydro Power",269.9,-3.6,-1.14,273.5,273.8,266.5,33405,9005987.4,342.3,199.9,14,47,8.1,false
+NLG,"NLG Insurance Company Ltd.","Non-Life Insurance",524,24,2.75,500,524,498.1,17133,8713198.7,655,373.6,15,51,15.72,false
+DOLTI,"Dolti Power Company Limited","Hydro Power",311,13,-0.61,298,319,298,26581,8295906.7,398.8,223.5,30,54,9.33,false
+SAPDBL,"Saptakoshi Development Bank Ltd","Development Banks",554.8,-10.7,3.01,565.5,565.5,533,15132,8276126.2,706.9,399.8,20,40,16.64,false
+SKBBL,"Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited","Microfinance",768.4,5.4,1.13,763,768.4,763,10469,8015114.2,960.5,572.3,20,50,23.05,false
+PROFL,"Progressive Finance Limited","Finance",389.5,-0.5,-0.13,390,399.9,389,20286,7947021.4,499.9,291.8,17,17,11.69,false
+MMKJL,"Mathillo Mailun Khola Jalvidhyut Limited","Others",401,1,0.2,400,410,395,19357,7735739.1,512.5,296.3,14,52,12.03,false
+VLBS,"Vijaya laghubitta Bittiya Sanstha Ltd.","Microfinance",634,16,2.32,618,635.7,607.5,11972,7519726.3,794.6,455.6,23,51,19.02,false
+CYCL,"CYC Nepal Laghubitta Bittiya Sanstha Limited","Microfinance",1440,10,-1.03,1430,1458,1425,5193,7460640.2,1822.5,1068.8,29,24,43.2,false
+GMFIL,"Guheshowori Merchant Bank & Finance Co. Ltd.","Finance",434,3.5,3.8,430.5,434.7,422.1,16903,7244708,543.4,316.6,33,52,13.02,false
+NFS,"Nepal Finance Ltd.","Finance",500,25,5.49,475,506,474.1,14699,7233664.1,632.5,355.6,15,45,15,false
+SIFC,"Shree Investment Finance Co. Ltd.","Finance",488.9,0,1.85,488.9,494,480,14558,7022590.2,617.5,360,20,48,14.67,false
+RURU,"Ru Ru Jalbidhyut Pariyojana Limited","Hydro Power",640,11,3.88,629,642,606.2,11029,6905540.1,802.5,454.7,19,20,19.2,false
+RAWA,"Rawa Energy Development Limited","Others",415,15.3,-0.48,399.7,420.9,399.7,16305,6787544.2,526.1,299.8,19,40,12.45,false
+GFCL,"Goodwill Finance Limited","Finance",580,10,1.93,570,580,569,11634,6684574.3,725,426.8,33,45,17.4,false
+BNHC,"Buddha Bhumi Nepal Hydropower Company Limited","Hydro Power",282,-4,-0.53,286,286.6,278.1,23725,6665550,358.3,208.6,28,53,8.46,false
+NIMBPO,"Nepal Investment Mega Bank Ltd. Promoter Share","Promotor Share",156.6,-3.4,0.26,160,164,151.7,41912,6599052.3,205,113.8,15,48,4.7,false
+SAIL,"Shreenagar Agritech Industries Limited","Others",936,-14,0.97,950,950,915,6850,6364119.2,1187.5,686.3,20,40,28.08,false
+TTL,"Trade Tower Limited","Others",649,9,1.41,640,650,640,9824,6331561.2,812.5,480,21,19,19.47,false
+SPC,"Samling Power Company Limited","Hydro Power",402.9,6.9,1.74,396,407,396,15592,6278810.2,508.8,297,20,15,12.09,false
+NESDO,"NESDO Sambridha Laghubitta Bittiya Sanstha Limited","Microfinance",1330,10,0.76,1320,1350,1304,4617,6074641,1687.5,978,15,44,39.9,false
+SPIL,"Siddhartha Premier Insurance Limited","Non-Life Insurance",617,12,2.17,605,619,602.3,9916,6017090.7,773.8,451.7,20,15,18.51,false
+EDBL,"Excel Development Bank Ltd.","Development Banks",584.8,12.8,2.08,572,587,568.2,10198,5886589,733.8,426.2,31,43,17.54,false
+KPCL,"Kalika power Company Ltd","Hydro Power",484.4,-3.6,-0.74,488,497,483,11870,5798118.1,621.3,362.3,12,15,14.53,false
+EHPL,"Eastern Hydropower Limited","Hydro Power",334.3,4.3,1.3,330,338,330,17123,5693577,422.5,247.5,31,47,10.03,false
+GRDBL,"Green Development Bank Ltd.","Development Banks",888,7.9,-0.87,880.1,890,877,6335,5594666.6,1112.5,657.8,33,17,26.64,false
+MHCL,"Molung Hydropower Company Limited","Hydro Power",287,2,0.7,285,291.8,285,19391,5594265.8,364.8,213.8,14,47,8.61,false
+VLUCL,"Vision Lumbini Urja Company Limited","Hydro Power",388,3,0.78,385,390,377.9,14342,5522633.6,487.5,283.4,23,51,11.64,false
+PURE,"Pure Energy Limited","Others",787.5,16.1,1.64,771.4,789,771.4,6999,5476766.9,986.3,578.5,17,20,23.63,false
+MERO,"Mero Microfinance Bittiya Sanstha Ltd.","Finance",602.5,8.5,1.6,594,602.5,587.6,9057,5399424.9,753.1,440.7,14,44,18.07,false
+SIKLES,"Sikles Hydropower Limited","Hydro Power",594.2,5.2,-0.15,589,600,589,8814,5235328.1,750,441.8,20,48,17.83,false
+NUBL,"Nirdhan Utthan Laghubitta Bittiya Sanstha Limited","Microfinance",635.8,-14.2,0.44,650,650,630.5,8252,5234282.5,812.5,472.9,15,20,19.07,false
+SWBBL,"Swabalamban Laghubitta Bittiya Sanstha Limited","Microfinance",724.2,0.2,0.32,724,726.9,720.1,7029,5087438.7,908.6,540.1,20,22,21.73,false
+RHGCL,"Rapti Hydro And General Construction Limited","Hydro Power",266,-17.5,-1.48,283.5,283.5,264,19006,5083166.8,354.4,198,19,47,7.98,false
+MHL,"Mandakini Hydropower Limited","Hydro Power",479.9,-0.1,0.82,480,480,470.1,10630,5064811.9,600,352.6,14,47,14.4,false
+RBCL,"Rastriya Beema Company Limited","Non-Life Insurance",14100,38.8,-2.73,14061.2,14102.2,14061.2,356,5019709,17627.8,10545.9,19,41,423,false
+MKJC,"Mailung Khola Jal Vidhyut Company Limited","Others",305.3,-9.7,-1.45,315,316,305,16240,5006622.4,395,228.8,14,50,9.16,false
+PPCL,"Panchthar Power Compant Limited","Hydro Power",346.3,-3.7,-0.46,350,350,340,14345,4927911.1,437.5,255,17,15,10.39,false
+PFL,"Pokhara Finance Ltd.","Finance",341,-6,3.02,347,347,329,14407,4843813.8,433.8,246.8,17,45,10.23,false
+SIPD,"Shikhar power Development Limited","Corporate Debentures",530,10,0.19,520,537.7,520,9077,4820644,672.1,390,20,48,15.9,false
+SKHL,"Super Khudi Hydropower Limited","Hydro Power",740,37,0,703,760,703,6546,4818897.8,950,527.3,20,50,22.2,false
+CHL,"Chhyangdi Hydropower Ltd.","Hydro Power",270,-1,-0.37,271,276,266,17923,4802513.1,345,199.5,29,47,8.1,false
+SAGAR,"Sagar Distillery Limited","Manufacturing & Processing",1564,38,2.49,1526,1564,1525,3124,4801643,1955,1143.8,20,40,46.92,false
+CORBL,"Corporate Development Bank Limited","Development Banks",770.9,-6.1,0.9,777,777,756.6,6221,4766828.2,971.3,567.5,29,54,23.13,false
+MKHC,"Maya Khola Hydropower Company Limited","Hydro Power",264.9,6.8,1.49,258.1,268,258.1,17559,4643061.6,335,193.6,14,50,7.95,false
+SABBL,"Salapa Bikas Bank Limited","Development Banks",821,46.7,0.74,774.3,825,774.3,5544,4533024.1,1031.3,580.7,20,40,24.63,false
+SINDU,"Sindhu Bikash Bank Ltd","Others",405.2,-17.9,0.55,423.1,423.1,403,11142,4525884.5,528.9,302.3,20,48,12.16,false
+BEDC,"Bhugol Energy Development Company Limited","Others",302.6,0.5,-2.04,302.1,309,302.1,14487,4414231.9,386.3,226.6,28,44,9.08,false
+CKHL,"Chirkhwa Hydropower Limited","Hydro Power",493,-15,-3.14,508,515,493,8731,4364664.3,643.8,369.8,29,50,14.79,false
+ILI,"IME Life Insurance Company Limited","Life Insurance",440.3,7.3,0.96,433,444,433,9916,4347688.4,555,324.8,35,51,13.21,false
+UMRH,"United IDI Mardi RB Hydropower Limited.","Hydro Power",521,0,0,521,521,514,8371,4325403.7,651.3,385.5,22,52,15.63,false
+SMH,"Super Mai Hydropower Limited","Hydro Power",554.8,1,0.18,553.8,558.8,546.1,7793,4301578.2,698.5,409.6,20,52,16.64,false
+GUFL,"Gurkhas Finance Ltd.","Finance",503,3,2.13,500,507,500,8503,4271010,633.8,375,33,20,15.09,false
+NICLBSL,"NIC ASIA Laghubitta Bittiya Sanstha Limited","Microfinance",505,3,0.6,502,505,495.2,8376,4194899.6,631.3,371.4,15,48,15.15,false
+PRIN,"Prabhu Insurance Ltd.","Non-Life Insurance",589,-3.9,1.03,592.9,593,580,7065,4124375.6,741.3,435,17,17,17.67,false
+OMPL,"Om Megashree Pharmaceuticals Limited","Others",814.9,13.9,1.86,801,815,801,5078,4106813.4,1018.8,600.8,16,52,24.45,false
+JBLB,"Jeevan Bikas Laghubitta  Bittya Sanstha Ltd","Microfinance",1297,-3,-0.23,1300,1305,1285.1,3146,4080281.5,1631.3,963.8,36,41,38.91,false
+PMLI,"Prabhu Mahalaxmi Life Insurance Limited","Life Insurance",436,4,0.93,432,437.8,431,9278,4039903.6,547.3,323.3,17,52,13.08,false
+JOSHI,"Joshi Hydropower Development Company Ltd","Hydro Power",264,-1.6,-0.6,265.6,267,260.1,15267,4005635.2,333.8,195.1,36,54,7.92,false
+MANDU,"Mandu Hydropower Limited","Hydro Power",830,20,1.97,810,830,806,4829,3938160,1037.5,604.5,14,40,24.9,false
+APHL,"Appolo Hydropower Limited","Hydro Power",586,1,1.03,585,590,576.1,6734,3919655,737.5,432.1,27,15,17.58,false
+IHL,"Ingwa Hydropower Limited","Hydro Power",323.9,-2.6,-0.31,326.5,332,316,12086,3882865.1,415,237,35,47,9.72,false
+SGIC,"Sanima GIC Insurance Limited","Non-Life Insurance",390,9,2.34,381,390,381,9976,3843937.7,487.5,285.8,20,46,11.7,false
+JFL,"Janaki Finance Company Limited","Finance",283,3,1.18,280,284.9,279.3,13604,3831111.5,356.1,209.5,36,45,8.49,false
+RSDC,"RSDC Laghubitta Bittiya Sanstha Ltd.","Microfinance",624.2,6,-0.34,618.2,632.4,618.2,6032,3763031.5,790.5,463.7,19,18,18.73,false
+NRM,"Nepal Republic Media Limited","Others",296,6,3.5,290,296,285,12885,3739815,370,213.8,15,17,8.88,false
+MNMF1,"Muktinath Mutual Fund 1","Mutual Funds",9.3,0.16,2.31,9.14,9.36,9.14,390895,3625075.5,11.7,6.9,14,53,1.4,false
+PMHPL,"Panchakanya Mai Hydropower Ltd","Hydro Power",314,-8,-0.63,322,322,302.8,11561,3601112.8,402.5,227.1,17,52,9.42,false
+GBLBS,"Grameen Bikas Laghubitta Bittiya Sanstha Ltd.","Microfinance",670,0,-0.59,670,680,656,5067,3384389.3,850,492,33,41,20.1,false
+ILBS,"Infinity Laghubitta Bittiya Sanstha Limited","Microfinance",949,34,1.39,915,950,915,3595,3369669.7,1187.5,686.3,35,51,28.47,false
+BJHL,"Bhujung Hydropower Limited","Hydro Power",580,26.1,-0.51,553.9,597.9,553.9,5681,3305872.5,747.4,415.4,28,49,17.4,false
+GILB,"Global IME Laghubitta Bittiya Sanstha Ltd.","Microfinance",1124.9,24.9,1.99,1100,1124.9,1100,2919,3251723.2,1406.1,825,33,48,33.75,false
+ANLB,"Aatmanirbhar Laghubitta Bittiya Sanstha Limited","Microfinance",4940,89,-0.2,4851,4940,4851,646,3166899,6175,3638.3,27,53,148.2,false
+SWMF,"Suryodaya Womi Laghubitta Bittiya Sanstha Limited","Mutual Funds",616,5,1.82,611,616,602,5206,3157852.9,770,451.5,20,22,18.48,false
+SKHEL,"Suryakunda Hydro Electric Limited","Hydro Power",780,15,1.96,765,780,730,4132,3113014.4,975,547.5,20,50,23.4,false
+NMFBS,"National Laghubitta Bittiya Sanstha Limited","Microfinance",1209,9,0.83,1200,1209.9,1196,2571,3097088.4,1512.4,897,15,52,36.27,false
+MEL,"Modi Energy Limited","Others",216.2,3,-0.55,213.2,219.2,213.2,14032,3050318.6,274,159.9,14,44,6.49,false
+NMLBBL,"Nerude Mirmire Laghubitta Bittiya Sanstha Limited","Microfinance",496.5,3.9,-1.49,492.6,499,492.6,5969,2956155.4,623.8,369.5,15,52,14.89,false
+SJCL,"SANJEN JALAVIDHYUT COMPANY LIMITED","Hydro Power",252,-15,-1.14,267,267,250,11241,2842043.4,333.8,187.5,20,49,7.56,false
+MKHL,"Mai Khola Hydropower Limited","Hydro Power",520,8.9,1.27,511.1,520,511.1,5340,2755935.2,650,383.3,14,50,15.6,false
+SMATA,"Samata Gharelu Laghubitta Bittiya Sanstha Limited","Microfinance",690.5,6.5,0.07,684,695,684,3812,2624008,868.8,513,20,52,20.71,false
+NIL,"Neco Insurance Limited","Non-Life Insurance",523.3,-1.7,1.02,525,530,518.5,4993,2622069.1,662.5,388.9,15,48,15.7,false
+HIMSTAR,"Him Star Urja Company Limited","Hydro Power",609,-6,1.33,615,615,606,4203,2563651.2,768.8,454.5,34,48,18.27,false
+ULHC,"Upper Lohore Khola Hydropower Company Limited","Hydro Power",323,-0.2,-1.97,323.2,330,319.7,7095,2283834.4,412.5,239.8,22,51,9.69,false
+MKCL,"Muktinath Krishi Company Limited","Others",767.2,12.2,2.94,755,767.2,745.4,2963,2248397.5,959,559,14,50,23.02,false
+IGI,"IGI Prudential insurance Limited","Non-Life Insurance",404.7,4.8,1.2,399.9,405,395,5485,2197893.1,506.3,296.3,35,46,12.14,false
+LSD92,"7% Laxmi Sunrise Debenture 2092","Corporate Debentures",1150,5,0,1145,1156,1145,1893,2178825,1445,858.8,13,18,34.5,false
+AVYAN,"Aviyan Laghubitta Bittiya Sanstha Limited","Microfinance",1022,-9,-1.73,1031,1050,1022,2110,2172611,1312.5,766.5,27,21,30.66,false
+MABEL,"Mabilung Energy Limited","Others",531.9,-8.1,0.36,540,556,520,3929,2076987.6,695,390,14,40,15.96,false
+SLBBL,"Swarojgar Laghubitta Bittiya Sanstha Ltd.","Microfinance",832,-3,-0.22,835,838,829,2483,2069883.5,1047.5,621.8,20,51,24.96,false
+STC,"Salt Trading Corporation","Tradings",5505.1,4.1,0.07,5501,5550,5500,347,1911135,6937.5,4125,20,19,165.15,false
+FOWAD,"Forward Microfinance Laghubitta Bittiya Sanstha Limited","Corporate Debentures",902,4,0.45,898,905,898,1941,1751553.4,1131.3,673.5,32,54,27.06,false
+SICL,"Shikhar Insurance Co. Ltd.","Non-Life Insurance",543,3,1.31,540,543.5,540,3117,1688082.4,679.4,405,20,48,16.29,false
+JHAPA,"Jhapa Energy Limited","Others",941,12.2,-1.05,928.8,977.9,928.8,1685,1598697.9,1222.4,696.6,36,47,28.23,false
+TVCL,"Trishuli Jal Vidhyut Company Limited","Others",282,2,1.11,280,283.8,277.1,5530,1558468,354.8,207.8,21,21,8.46,false
+NADEP,"Nadep Laghubittiya bittya Sanstha Ltd.","Promotor Share",680,17,0.89,663,681,663,2256,1520278,851.3,497.3,15,40,20.4,false
+TRH,"Taragaon Regency Hotel Limited","Hotels & Tourism",816,-3,-0.55,819,819,815.3,1785,1457393,1023.8,611.5,21,17,24.48,false
+MCHL,"Menchhiyam Hydropower Limited","Hydro Power",266.9,-0.1,-1.51,267,274.9,258.5,5454,1446910.9,343.6,193.9,14,42,8.01,false
+USLB,"Unnati Sahakarya Laghubitta Bittiya Sanstha Limited","Microfinance",1020.5,-31.5,-1.69,1052,1052.1,1020.5,1363,1415301.5,1315.1,765.4,22,18,30.61,false
+DHPL,"Dibyashwori Hydropower Ltd.","Hydro Power",278.8,0.8,1.05,278,279,275.7,4919,1360150.2,348.8,206.8,30,47,8.36,false
+NMBMF,"NMB  Microfinance Bittiya Sanstha Ltd.","Mutual Funds",606.9,6.9,1.44,600,606.9,596.5,2205,1324656.8,758.6,447.4,15,52,18.21,false
+SWASTIK,"Swastik Laghubitta Bittiya Sanstha Limited","Microfinance",1720,20,-0.75,1700,1740,1700,760,1294118,2175,1275,20,22,51.6,false
+SPHL,"Sayapatri Hydropower Limited","Hydro Power",511,18,2,493,513,491.7,2536,1288449.4,641.3,368.8,20,15,15.33,false
+MLBBL,"Mithila LaghuBitta Bittiya Sanstha Limited","Microfinance",941.7,5.7,0.29,936,941.7,930,1366,1274600.3,1177.1,697.5,14,51,28.25,false
+TSHL,"Three Star Hydropower Limited","Hydro Power",344,0,1.18,344,345,337,3721,1260988.2,431.3,252.8,21,18,10.32,false
+GMLI,"Guardian Micro Life Insurance Limited","Life Insurance",917.9,22.9,0.36,895,917.9,895,1316,1190449,1147.4,671.3,33,52,27.54,false
+NWCL,"Nepal Warehousing Company Limited","Others",523.8,10.2,1.71,513.6,523.8,512,2294,1186777.6,654.8,384,15,22,15.71,false
+NYADI,"Nyadi Hydropower Limited","Hydro Power",357,8.8,-0.28,348.2,362,348.2,3247,1157638.2,452.5,261.1,15,24,10.71,false
+NMIC,"Nepal Micro Insurance Company Limited","Non-Life Insurance",797.4,6.4,0.81,791,800,788,1390,1102130.7,1000,591,15,52,23.92,false
+SMPDA,"Sampada Laghubitta Bittiya Sanstha Limited","Microfinance",742,19.7,1.09,722.3,742.2,722.3,1486,1096876.6,927.8,541.7,20,52,22.26,false
+BNT,"Bottlers Nepal (Terai) Limited","Manufacturing & Processing",12140,239.6,0.33,11900.4,12190,11900,90,1078706,15237.5,8925,28,53,364.2,false
+NHDL,"Nepal Hydro Developers Ltd.","Hydro Power",655,-3,0.71,658,660.9,645,1655,1077888.1,826.1,483.8,15,47,19.65,false
+MLBSL,"Mahila Lagubitta Bittiya Sanstha Limited","Microfinance",1024,4,0.39,1020,1035,1014,1057,1077555.1,1293.8,760.5,14,51,30.72,false
+AHL,"Asian Hydropower Limited","Hydro Power",380,4,1.33,376,385,376,2827,1074709,481.3,282,27,47,11.4,false
+OHL,"Oriental Hotels Limited","Hotels & Tourism",649.4,16.4,-0.02,633,650,631.1,1623,1035566.7,812.5,473.3,16,47,19.48,false
+MSLB,"Mahuli Laghubitta Bittiya Sanstha Limited","Microfinance",1192,11.9,-0.58,1180.1,1212,1180,862,1026587,1515,885,14,18,35.76,false
+BBC,"Bishal Bazar Company Limited","Tradings",4000,-33.9,0.03,4033.9,4033.9,3981,249,995657,5042.4,2985.8,28,41,120,false
+RBCLPO,"Rastriya Beema Company Limited Promoter Share","Promotor Share",11002,-48,0.02,11050,11050,11000,80,881220,13812.5,8250,19,41,330.06,false
+SPL,"Shuvam Power Limited","Hydro Power",589.9,10.8,0.32,579.1,595,577,1455,847703.7,743.8,432.8,20,15,17.7,false
+BENH,"Beni Hydropower Project Limited","Hydro Power",617.2,64.4,15,552.8,617.2,552.8,1338,824247.6,771.5,414.6,28,44,18.52,false
+GBILD84/85,"Global IME Bank Debenture, 2084/85","Corporate Debentures",1115,14.9,0.54,1100.1,1115,1100.1,731,809722.5,1393.8,825.1,33,41,33.45,false
+KMCDB,"Kalika Laghubitta Bittiya Sanstha Ltd","Microfinance",808.3,-3.7,0.41,812,816,794.2,985,788192.5,1020,595.7,12,52,24.25,false
+SLBSL,"Samudayik Laghubitta Bittiya Sanstha Limited","Microfinance",890,14,1.6,876,893,850,898,782155.5,1116.3,637.5,20,51,26.7,false
+LLBS,"Laxmi Laghubitta Bittiya Sanstha Ltd.","Microfinance",820,19,1.11,801,820,800.1,925,755231.4,1025,600.1,13,51,24.6,false
+SMFBS,"Swabhimaan Laghubitta Bittiya Sanstha Limited","Microfinance",1338,-2,-0.15,1340,1378,1338,550,744522.4,1722.5,1003.5,20,52,40.14,false
+BHPL,"Barahi Hydropower Public Limited","Hydro Power",424,-22,-0.19,446,446,418,1635,689308.3,557.5,313.5,28,47,12.72,false
+HLBSL,"Himalayan Laghubitta Bittiya Sanstha Limited","Microfinance",884.8,9.8,1.7,875,884.8,870,788,688781.3,1106,652.5,34,51,26.54,false
+JSLBB,"Janautthan Samudayic Laghubitta Bittya Sanstha Limited","Microfinance",945,35.1,2.73,909.9,945,909.9,700,649052,1181.3,682.4,36,18,28.35,false
+GLBSL,"Gurans Laghubitta Bittiya Sanstha Limited","Microfinance",1490,40,2.41,1450,1493.4,1450,415,609422.2,1866.8,1087.5,33,51,44.7,false
+KSY,"Kumari Sabal Yojana","Others",9.21,0,-1.18,9.21,9.22,9.21,65100,599572,11.5,6.9,12,18,0.28,false
+UNLB,"Unique Nepal Laghubitta Bittiya Sanstha Limited","Microfinance",1234.8,23.8,-0.81,1211,1246,1207.7,480,586054.4,1557.5,905.8,22,53,37.04,false
+SMB,"Support Microfinance Bittiya Sanstha Ltd.","Finance",1750,14,0.8,1736,1760,1736,321,563078.5,2200,1302,20,52,52.5,false
+PBD93,"6.25% Prime Bank Debenture, 2093","Corporate Debentures",1115.1,11.1,-0.44,1104,1120,1104,400,445535,1400,828,17,41,33.45,false
+SEF,"Siddhartha Equity Fund","Others",9.94,0.04,0.91,9.9,9.95,9.9,42775,424720.5,12.4,7.4,20,44,0.3,false
+KEF,"Kumari Equity Fund","Others",9.58,0,0.31,9.58,9.61,9.57,42200,404253,12,7.2,12,44,0.29,false
+NICSF,"NIC Asia Select Fund 30","Others",8.8,0.15,2.33,8.65,8.8,8.65,45147,396456.6,11,6.5,15,48,0.26,false
+GMFBS,"Ganapati Laghubitta Bittiya Sanstha Limited","Microfinance",1075,0.1,0.39,1074.9,1089,1040,288,304319,1361.3,780,33,52,32.25,false
+MBLEF,"MBL Equity Fund","Others",9.6,0.25,2.35,9.35,9.63,9.35,31500,300931,12,7,14,41,0.29,false
+NBF2,"NABIL BALANCED FUND-2","Mutual Funds",9.23,-0.09,-0.97,9.32,9.5,9.23,31665,297926.95,11.9,6.9,15,41,0.28,false
+ACLBSL,"Aarambha Chautari Laghubitta Bittiya Sanstha Limited","Microfinance",858.8,7.7,1.04,851.1,858.9,851.1,348,297695.6,1073.6,638.3,27,42,25.76,false
+NICGF2,"NIC ASIA Growth Fund-2","Others",9.05,0.01,0.22,9.04,9.05,9.01,32800,295999,11.3,6.8,15,48,0.27,false
+EBLD91,"Everest Bank Limited Debenture 2091","Corporate Debentures",1215,-24.9,-2.17,1239.9,1239.9,1215,235,290754,1549.9,911.3,31,41,36.45,false
+ULBSL,"Upakar Laghubitta Bittiya Sanstha Limited","Microfinance",2514,-32.6,0.89,2546.6,2546.6,2500,104,261234,3183.3,1875,22,51,75.42,false
+CIZBD90,"10% Citizens Bank Debenture 2090","Corporate Debentures",1279,9,1.11,1270,1279,1270,196,249181.5,1598.8,952.5,29,48,38.37,false
+ICFCD89,"8% ICFC Finance Limited Debenture 2089","Corporate Debentures",1123,-7,-0.62,1130,1130,1115.8,179,200720,1412.5,836.8,35,42,33.69,false
+SFMF,"Sunrise First Mutual Fund","Mutual Funds",9.52,-0.26,0.21,9.78,9.78,9.52,20100,194619.16,12.2,7.1,20,45,0.29,false
+NSIF2,"NMB Sulav Investment Fund - 2","Investment",10.12,0,-1.75,10.12,10.3,10.12,18550,188743,12.9,7.6,15,18,0.3,false
+SIGS3,"Siddhartha Investment Growth Scheme 3","Investment",10.6,0.05,0.47,10.55,10.6,10.51,17700,186795,13.3,7.9,20,48,0.32,false
+SHINED,"Shine Resunga Debenture","Corporate Debentures",1159,7,0.78,1152,1160,1152,159,184036,1450,864,20,47,34.77,false
+NICAD2091,"7% NIC ASIA Debenture 2091","Corporate Debentures",1115,0,0.09,1115,1115,1115,165,183975,1393.8,836.3,15,48,33.45,false
+PRSF,"Prabhu Smart Fund","Others",12.34,0.08,-1.28,12.26,12.45,12.26,14715,181939.75,15.6,9.2,17,17,0.37,false
+EBLEB89,"Everest Bank Limited Energy Bond, 2089","Corporate Debentures",1150,10,1.05,1140,1150,1140,150,171500,1437.5,855,31,41,34.5,false
+USHL,"Upper Syange Hydropower Limited","Hydro Power",507,1.5,-1.17,505.5,513.5,505.5,320,162829,641.9,379.1,22,18,15.21,false
+PSF,"Prabhu Select Fund","Others",11.22,0.07,-0.71,11.15,11.35,11.15,14293,161740.1,14.2,8.4,17,18,0.34,false
+DLBS,"Dhaulagiri Laghubitta Bittiya Sanstha Limited","Microfinance",1100,20,-0.45,1080,1100,1076,146,158471,1375,807,30,51,33,false
+MATRI,"Matribhumi Lagubitta Bittiya Sanstha Limited","Others",700,-9,0,709,709,700,210,147708.8,886.3,525,14,40,21,false
+GSY,"Garima Samriddhi Yojana","Mutual Funds",9.43,0.08,2.39,9.35,9.48,9.35,15590,146807.5,11.9,7,33,18,0.28,false
+SEF2,"Siddhartha Equity Fund 2","Others",9.69,0.28,3.42,9.41,10.2,9.41,14864,144151.16,12.8,7.1,20,44,0.29,false
+RSY,"Reliable Samriddhi Yojana","Mutual Funds",9.7,0.2,1.57,9.5,9.7,9.5,14400,139521,12.1,7.1,19,18,0.29,false
+SBLD89,"10.75% SBL Debenture 2089","Corporate Debentures",1290,0,-0.08,1290,1290,1290,100,129000,1612.5,967.5,20,41,38.7,false
+SHLB,"Shrijanshil Laghubitta Bittiya Sanstha Limited","Microfinance",1295,23,1.81,1272,1309.9,1272,88,112782,1637.4,954,20,47,38.85,false
+NMBHF2,"NMB Hybrid Fund L- II","Others",9.41,0.46,2.28,8.95,9.41,8.95,10800,101204,11.8,6.7,15,52,0.28,false
+RMF1,"RBB Mutual Fund 1","Mutual Funds",9.31,0.11,2.76,9.2,9.31,9.2,10154,93974.24,11.6,6.9,19,52,0.28,false
+NIMBD90,"10% NIMB Debenture 2090","Corporate Debentures",1320,0,-1.35,1320,1320,1320,69,91080,1650,990,15,48,39.6,false
+GIBF1,"Global IME Balanced Fund-1","Mutual Funds",10.3,0.09,0,10.21,10.41,10.21,6800,70561,13,7.7,33,48,0.31,false
+SAEF2,"Sanima Equity Fund-2","Others",9.51,0.26,3.03,9.25,9.52,9.25,7255,68329.55,11.9,6.9,20,40,0.29,false
+EBLD85,"10.50% Everest Bank Limited Debenture 2085","Corporate Debentures",1108.1,0,0.74,1108.1,1108.1,1108.1,59,65377.9,1385.1,831.1,31,41,33.24,false
+MLBS,"Manushi Laghubitta Bittiya Sanstha Limited","Microfinance",1009,16,1.61,993,1009,975,60,59560,1261.3,731.3,14,51,30.27,false
+EBLD86,"Everest Bank Limited","Corporate Debentures",1090,0,-0.01,1090,1090,1090,50,54500,1362.5,817.5,31,41,32.7,false
+GBBD85,"Garima Debenture, 2085","Corporate Debentures",1075.2,5.2,0.43,1070,1075.2,1070,50,53630,1344,802.5,33,41,32.26,false
+RBBD83,"8.5% RBBL Debenture 2083","Corporate Debentures",1031.4,1.4,-2.67,1030,1031.4,1030,50,51535,1289.3,772.5,19,41,30.94,false
+C30MF,"Citizens Super 30 Mutual Fund","Mutual Funds",9.61,-0.29,-1.74,9.9,9.9,9.61,4160,40145.8,12.4,7.2,29,26,0.29,false
+NIBLSTF,"NIBL Stable Fund","Others",8.83,0.08,1.03,8.75,8.9,8.75,4500,39827,11.1,6.6,15,48,0.26,false
+MMF1,"Mega Mutual Fund -1","Mutual Funds",8.95,0.15,0,8.8,9.05,8.71,3800,33874,11.3,6.5,14,52,0.27,false
+KSBBLD87,"9% Kamana Sewa Bikas Bank Limited Debenture 2087","Corporate Debentures",1120,0,0.18,1120,1120,1120,30,33600,1400,840,12,18,33.6,false
+NMBD2085,"10 % NMB DEBENTURE 2085","Corporate Debentures",1092,-28,-1.18,1120,1120,1120,30,33460,1400,840,15,52,32.76,false
+NMBUR93/94,"NMB Energy Bond 4% - 2093/94","Corporate Debentures",929,-1,0.29,930,930,929,35,32525,1162.5,696.8,15,52,27.87,false
+SBLD84,"8.5% SBL Debenture 2084","Corporate Debentures",1040,0,0.48,1040,1040,1040,30,31200,1300,780,20,41,31.2,false
+ICFCD88,"9% ICFC Finance Limited Debenture 2088","Corporate Debentures",1156,0,0.09,1156,1156,1156,25,28900,1445,867,35,42,34.68,false
+RSY2,"Reliable Samriddhi Yojana -2","Mutual Funds",9.16,0.01,0.11,9.15,9.3,9.15,2995,27430.75,11.6,6.9,19,18,0.27,false
+MFLD85,"9.5% Manjushree Finance Limited Debenture 2085","Corporate Debentures",1090,0,-2.01,1090,1090,1090,25,27250,1362.5,817.5,14,45,32.7,false
+KDBY,"Kumari Dhanabriddhi Yojana","Others",10.41,0,0,10.41,10.5,10.41,2600,27173,13.1,7.8,12,43,0.31,false
+NICFC,"NIC Asia Flexi CAP Fund","Others",9.26,0.05,0.87,9.21,9.26,9.21,2920,26921.8,11.6,6.9,15,48,0.28,false
+KBLD86,"10.25% KBL Debenture 2086","Corporate Debentures",1220,0,-2.32,1220,1220,1220,22,26840,1525,915,12,41,36.6,false
+SBID83,"10.25% Nepal SBI Bank Debenture 2083","Corporate Debentures",1050,0,0.85,1050,1050,1050,25,26250,1312.5,787.5,20,41,31.5,false
+NIBD84,"8.5% Nepal Investment Bank Debenture 2084","Corporate Debentures",1040,0,-0.1,1040,1040,1040,25,26000,1300,780,15,48,31.2,false
+CSY,"Citizens Santulit Yojana","Others",9,0.13,-1.53,8.87,9.13,8.87,2730,24384.4,11.4,6.7,29,18,0.27,false
+SLCF,"Sanima Large Cap Fund","Others",9.45,0.3,2.72,9.15,9.45,9.15,2630,24360.5,11.8,6.9,20,51,0.28,false
+LSH12,"LS Horizon 12","Others",9.25,0.53,0.87,8.72,9.25,8.72,2350,21543.5,11.6,6.5,13,18,0.28,false
+LUK,"Laxmi Unnati Kosh","Others",9.84,0,2.93,9.84,9.84,9.56,2061,20140.24,12.3,7.2,13,20,0.3,false
+NBF3,"Nabil Balanced Fund-3","Mutual Funds",9.2,-0.1,-1.08,9.3,9.3,9.03,2200,20101.24,11.6,6.8,15,41,0.28,false
+SBID89,"9% Nepal SBI Bank Rinpatra 2089","Corporate Debentures",1162,0,-2.19,1162,1162,1162,15,17430,1452.5,871.5,20,41,34.86,false
+RBBF40,"RBB Focus 40","Others",9.16,0.05,0.66,9.11,9.16,9.11,1760,16071.6,11.4,6.8,19,41,0.27,false
+NSY,"Nepal Life Samriddhi Lagani Yojana","Mutual Funds",9.11,0.11,1.22,9,9.2,9,1715,15592.5,11.5,6.8,15,18,0.27,false
+NIBSF2,"NIBL Samriddhi Fund -2","Mutual Funds",8.84,0.04,-1.67,8.8,8.99,8.8,1574,13960.81,11.2,6.6,15,48,0.27,false
+NIBLGF,"NIBL Growth Fund","Others",9.06,0.04,-0.98,9.02,9.06,9.02,1270,11468.4,11.3,6.8,15,48,0.27,false
+SBCF,"Sunrise Bluechip Fund","Others",9.3,0,-2.82,9.3,9.3,9.3,750,6975,11.6,7,20,41,0.28,false
+H8020,"Himalayan 80-20","Others",11.3,0,0,11.3,11.3,11.26,600,6768,14.1,8.4,34,31,0.34,false
+HLICF,"HLI Large Cap Fund","Others",8.36,-0.1,-2.79,8.46,8.46,8.35,550,4605.5,10.6,6.3,34,51,0.25,false
+GBIMESY2,"Global IME Sammunat Yojana -2","Others",9.2,0.05,-0.11,9.15,9.4,9.15,415,3833,11.8,6.9,33,41,0.28,false
+SAGF,"Sanima Growth Fund","Others",9.36,0.01,0.11,9.35,9.36,9.35,400,3742,11.7,7,20,40,0.28,false
+LVF2,"Laxmi Value Fund 2","Others",9.4,0.28,3.3,9.12,9.4,9.12,400,3731,11.8,6.8,13,21,0.28,false
+SFEF,"Sunrise Focused Equity Fund","Others",9.23,0,0.11,9.23,9.23,9.23,100,923,11.5,6.9,20,45,0.28,false
