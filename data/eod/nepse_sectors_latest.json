@@ -2,55 +2,40 @@
   "sectors": [
     {
       "sector": "Hydro Power",
-      "indexValue": 3656.73,
-      "change": -39.95,
-      "pChange": -1.08,
-      "turnover": 3164693207.8,
+      "indexValue": 3668.22,
+      "change": 11.49,
+      "pChange": 0.31,
+      "turnover": 2389677271.9,
       "scripCount": 97,
-      "advancers": 29,
-      "decliners": 67,
-      "unchanged": 1,
+      "advancers": 62,
+      "decliners": 35,
+      "unchanged": 0,
       "topGainer": {
-        "symbol": "BENH",
-        "pChange": 13.58
+        "symbol": "RFPL",
+        "pChange": 5.8
       }
     },
     {
       "sector": "Commercial Banks",
-      "indexValue": 1593.73,
-      "change": -17.34,
-      "pChange": -1.08,
-      "turnover": 1944597334.8,
+      "indexValue": 1602.06,
+      "change": 8.33,
+      "pChange": 0.52,
+      "turnover": 1421447840.1,
       "scripCount": 18,
-      "advancers": 2,
-      "decliners": 16,
+      "advancers": 13,
+      "decliners": 5,
       "unchanged": 0,
       "topGainer": {
         "symbol": "NICA",
-        "pChange": 3.02
-      }
-    },
-    {
-      "sector": "Development Bank Limited",
-      "indexValue": 5548.28,
-      "change": -106.44,
-      "pChange": -1.88,
-      "turnover": 559120187.7,
-      "scripCount": 20,
-      "advancers": 0,
-      "decliners": 0,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "N/A",
-        "pChange": 0
+        "pChange": 3.23
       }
     },
     {
       "sector": "Manufacturing And Processing",
-      "indexValue": 10632.33,
-      "change": -97.47,
-      "pChange": -0.91,
-      "turnover": 533553694.8,
+      "indexValue": 10625.14,
+      "change": -7.19,
+      "pChange": -0.07,
+      "turnover": 548998133.6,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -61,56 +46,26 @@
       }
     },
     {
-      "sector": "Finance",
-      "indexValue": 2213.73,
-      "change": -34.5,
-      "pChange": -1.53,
-      "turnover": 231653564.5,
-      "scripCount": 17,
-      "advancers": 5,
-      "decliners": 11,
-      "unchanged": 1,
-      "topGainer": {
-        "symbol": "CFCL",
-        "pChange": 0.35
-      }
-    },
-    {
-      "sector": "Life Insurance",
-      "indexValue": 11888.29,
-      "change": -177.94,
-      "pChange": -1.47,
-      "turnover": 149849043,
-      "scripCount": 14,
-      "advancers": 1,
-      "decliners": 13,
+      "sector": "Development Bank Limited",
+      "indexValue": 5552.02,
+      "change": 3.74,
+      "pChange": 0.07,
+      "turnover": 314125435.6,
+      "scripCount": 20,
+      "advancers": 0,
+      "decliners": 0,
       "unchanged": 0,
       "topGainer": {
-        "symbol": "ILI",
-        "pChange": -0.45
-      }
-    },
-    {
-      "sector": "Microfinance",
-      "indexValue": 4497.71,
-      "change": -53.11,
-      "pChange": -1.17,
-      "turnover": 145592284.6,
-      "scripCount": 41,
-      "advancers": 11,
-      "decliners": 28,
-      "unchanged": 2,
-      "topGainer": {
-        "symbol": "LLBS",
-        "pChange": 0.37
+        "symbol": "N/A",
+        "pChange": 0
       }
     },
     {
       "sector": "Hotels And Tourism",
-      "indexValue": 7017.47,
-      "change": -44.62,
-      "pChange": -0.63,
-      "turnover": 135689216.2,
+      "indexValue": 7093.24,
+      "change": 75.77,
+      "pChange": 1.08,
+      "turnover": 267938461.2,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -118,89 +73,119 @@
       "topGainer": {
         "symbol": "N/A",
         "pChange": 0
+      }
+    },
+    {
+      "sector": "Microfinance",
+      "indexValue": 4503.86,
+      "change": 6.15,
+      "pChange": 0.14,
+      "turnover": 186526871.4,
+      "scripCount": 41,
+      "advancers": 28,
+      "decliners": 13,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "SHLB",
+        "pChange": 2.98
+      }
+    },
+    {
+      "sector": "Finance",
+      "indexValue": 2213.47,
+      "change": -0.26,
+      "pChange": -0.01,
+      "turnover": 143683557.6,
+      "scripCount": 17,
+      "advancers": 9,
+      "decliners": 7,
+      "unchanged": 1,
+      "topGainer": {
+        "symbol": "MERO",
+        "pChange": 2.63
       }
     },
     {
       "sector": "Investment",
-      "indexValue": 94.41,
-      "change": -1.37,
-      "pChange": -1.43,
-      "turnover": 126359494.7,
-      "scripCount": 10,
-      "advancers": 2,
-      "decliners": 8,
-      "unchanged": 0,
+      "indexValue": 94.37,
+      "change": -0.04,
+      "pChange": -0.04,
+      "turnover": 126421771.9,
+      "scripCount": 11,
+      "advancers": 9,
+      "decliners": 1,
+      "unchanged": 1,
       "topGainer": {
-        "symbol": "SIGS3",
-        "pChange": 0.76
+        "symbol": "NIMB",
+        "pChange": 1
+      }
+    },
+    {
+      "sector": "Life Insurance",
+      "indexValue": 11899.08,
+      "change": 10.79,
+      "pChange": 0.09,
+      "turnover": 103254513.9,
+      "scripCount": 14,
+      "advancers": 11,
+      "decliners": 2,
+      "unchanged": 1,
+      "topGainer": {
+        "symbol": "PMLI",
+        "pChange": 0.65
       }
     },
     {
       "sector": "Others",
-      "indexValue": 1803.8,
-      "change": -29.6,
-      "pChange": -1.61,
-      "turnover": 96376415.2,
+      "indexValue": 1803.29,
+      "change": -0.51,
+      "pChange": -0.03,
+      "turnover": 61843493.3,
       "scripCount": 60,
-      "advancers": 21,
-      "decliners": 33,
-      "unchanged": 6,
+      "advancers": 43,
+      "decliners": 15,
+      "unchanged": 2,
       "topGainer": {
-        "symbol": "HLICF",
-        "pChange": 1.07
+        "symbol": "PSF",
+        "pChange": 4.14
       }
     },
     {
       "sector": "Non-Life Insurance",
-      "indexValue": 9423.88,
-      "change": -165.3,
-      "pChange": -1.72,
-      "turnover": 62630597.1,
+      "indexValue": 9433.31,
+      "change": 9.43,
+      "pChange": 0.1,
+      "turnover": 42407611,
       "scripCount": 15,
-      "advancers": 3,
+      "advancers": 5,
       "decliners": 10,
-      "unchanged": 2,
+      "unchanged": 0,
       "topGainer": {
-        "symbol": "PRIN",
-        "pChange": -0.05
+        "symbol": "NIL",
+        "pChange": 1.92
       }
     },
     {
       "sector": "Promotor Share",
-      "indexValue": 2849.7,
+      "indexValue": 2498.8,
       "change": 12.5,
       "pChange": 0.55,
-      "turnover": 14565749.7,
-      "scripCount": 5,
-      "advancers": 0,
-      "decliners": 3,
-      "unchanged": 2,
+      "turnover": 20445398.8,
+      "scripCount": 4,
+      "advancers": 2,
+      "decliners": 1,
+      "unchanged": 1,
       "topGainer": {
-        "symbol": "NIMBPO",
-        "pChange": 1.02
+        "symbol": "NADEP",
+        "pChange": 1.92
       }
     },
     {
       "sector": "Mutual Fund",
-      "indexValue": 19.88,
-      "change": -0.15,
-      "pChange": -0.75,
-      "turnover": 10040650.31,
-      "scripCount": 20,
-      "advancers": 0,
-      "decliners": 0,
-      "unchanged": 0,
-      "topGainer": {
-        "symbol": "N/A",
-        "pChange": 0
-      }
-    },
-    {
-      "sector": "Corporate Debenture",
-      "indexValue": 3044.6,
-      "change": 12.5,
-      "pChange": 0.55,
-      "turnover": 6150944.6,
+      "indexValue": 19.9,
+      "change": 0.02,
+      "pChange": 0.1,
+      "turnover": 14782083.79,
       "scripCount": 20,
       "advancers": 0,
       "decliners": 0,
@@ -212,16 +197,31 @@
     },
     {
       "sector": "Tradings",
-      "indexValue": 3181.99,
-      "change": -27.86,
-      "pChange": -0.87,
-      "turnover": 2840662,
+      "indexValue": 3187.02,
+      "change": 5.03,
+      "pChange": 0.16,
+      "turnover": 5845108.4,
       "scripCount": 2,
-      "advancers": 0,
-      "decliners": 2,
+      "advancers": 2,
+      "decliners": 0,
       "unchanged": 0,
       "topGainer": {
         "symbol": "STC",
+        "pChange": 1.25
+      }
+    },
+    {
+      "sector": "Corporate Debenture",
+      "indexValue": 4571,
+      "change": 12.5,
+      "pChange": 0.55,
+      "turnover": 3744971,
+      "scripCount": 20,
+      "advancers": 0,
+      "decliners": 0,
+      "unchanged": 0,
+      "topGainer": {
+        "symbol": "N/A",
         "pChange": 0
       }
     }
