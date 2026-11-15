@@ -1,19 +1,19 @@
 {
   "summary": {
-    "nepseIndex": 2655.22,
-    "nepseChange": 2.64,
-    "nepsePChange": 0.1,
+    "nepseIndex": 2648.89,
+    "nepseChange": -6.33,
+    "nepsePChange": -0.24,
     "sensitiveIndex": 468.45,
     "sensitiveChange": 2.15,
     "floatIndex": 182.35,
     "floatChange": 0.95,
-    "totalTurnover": 3462059323.07,
-    "totalSharesTraded": 10713842,
-    "totalTransactions": 33215,
-    "advancers": 214,
-    "decliners": 105,
-    "unchanged": 31,
+    "totalTurnover": 3054274725.06,
+    "totalSharesTraded": 7844267,
+    "totalTransactions": 31323,
+    "advancers": 190,
+    "decliners": 122,
+    "unchanged": 37,
     "marketStatus": "CLOSED",
-    "lastUpdated": "24:38:14"
+    "lastUpdated": "17:09:08"
   }
 }
