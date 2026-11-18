@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-18 18:18:21 NPT",
+  "generatedAt": "2026-11-18 23:24:38 NPT",
   "sessionDate": "2026-11-18",
-  "executionTimeMs": 2006,
+  "executionTimeMs": 10074,
   "report": {
-    "timestamp": "2026-11-18 18:18:21 NPT",
+    "timestamp": "2026-11-18 23:24:38 NPT",
     "sessionDate": "2026-11-18",
     "merolaganiCount": 347,
-    "nepaliPaisaCount": 346,
+    "nepaliPaisaCount": 0,
     "chukulCount": 343,
     "canonicalTotal": 361,
     "chukulMissingSymbols": [
@@ -15,14 +15,14 @@
       "NIFRAGED",
       "RBBD2088"
     ],
-    "mismatchCountTolerance001": 0,
+    "mismatchCountTolerance001": 2,
     "sectorCount": 15,
     "indicesCount": 14,
     "marketCapClassificationsCount": 279,
     "overallTurnoverNpr": 4154925107.54,
     "overallVolume": 10162605,
     "overallTransactions": 41627,
-    "executionTimeMs": 1999
+    "executionTimeMs": 10065
   },
   "marketSummary": {
     "nepseIndex": 2625.05,
@@ -35,11 +35,11 @@
     "totalTurnover": 4154925107.54,
     "totalSharesTraded": 10162605,
     "totalTransactions": 41627,
-    "advancers": 150,
-    "decliners": 171,
-    "unchanged": 40,
+    "advancers": 149,
+    "decliners": 173,
+    "unchanged": 39,
     "marketStatus": "CLOSED",
-    "lastUpdated": "18:18:21"
+    "lastUpdated": "23:24:38"
   },
   "totalStocks": 361,
   "totalSectors": 15

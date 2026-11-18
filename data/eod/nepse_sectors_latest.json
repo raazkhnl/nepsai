@@ -6,10 +6,10 @@
       "change": -17.21,
       "pChange": -0.47,
       "turnover": 1738653585.51,
-      "scripCount": 97,
-      "advancers": 39,
-      "decliners": 55,
-      "unchanged": 3,
+      "scripCount": 31,
+      "advancers": 13,
+      "decliners": 16,
+      "unchanged": 2,
       "topGainer": {
         "symbol": "LEC",
         "pChange": 3.07
@@ -51,10 +51,10 @@
       "change": -19.71,
       "pChange": -0.91,
       "turnover": 250051494.7,
-      "scripCount": 17,
-      "advancers": 6,
-      "decliners": 9,
-      "unchanged": 2,
+      "scripCount": 9,
+      "advancers": 2,
+      "decliners": 6,
+      "unchanged": 1,
       "topGainer": {
         "symbol": "MFIL",
         "pChange": 1.08
@@ -66,13 +66,13 @@
       "change": -0.16,
       "pChange": -0.17,
       "turnover": 211290564.4,
-      "scripCount": 10,
-      "advancers": 5,
-      "decliners": 5,
+      "scripCount": 5,
+      "advancers": 2,
+      "decliners": 3,
       "unchanged": 0,
       "topGainer": {
-        "symbol": "NIMB",
-        "pChange": 1.48
+        "symbol": "ENL",
+        "pChange": 0.82
       }
     },
     {
@@ -96,10 +96,10 @@
       "change": -24.41,
       "pChange": -0.55,
       "turnover": 109564402,
-      "scripCount": 41,
-      "advancers": 17,
-      "decliners": 21,
-      "unchanged": 3,
+      "scripCount": 25,
+      "advancers": 11,
+      "decliners": 12,
+      "unchanged": 2,
       "topGainer": {
         "symbol": "ULBSL",
         "pChange": 2.92
@@ -126,13 +126,13 @@
       "change": -41.24,
       "pChange": -0.35,
       "turnover": 59810861.3,
-      "scripCount": 14,
-      "advancers": 7,
-      "decliners": 6,
+      "scripCount": 8,
+      "advancers": 2,
+      "decliners": 5,
       "unchanged": 1,
       "topGainer": {
-        "symbol": "NLICL",
-        "pChange": 1.33
+        "symbol": "ALICL",
+        "pChange": 0.5
       }
     },
     {
@@ -141,10 +141,10 @@
       "change": -11.07,
       "pChange": -0.6,
       "turnover": 58810014.3,
-      "scripCount": 61,
-      "advancers": 31,
-      "decliners": 23,
-      "unchanged": 7,
+      "scripCount": 192,
+      "advancers": 86,
+      "decliners": 93,
+      "unchanged": 13,
       "topGainer": {
         "symbol": "SLCF",
         "pChange": 3.26
@@ -156,10 +156,10 @@
       "change": -61.81,
       "pChange": -0.66,
       "turnover": 44422866,
-      "scripCount": 15,
-      "advancers": 6,
-      "decliners": 8,
-      "unchanged": 1,
+      "scripCount": 7,
+      "advancers": 5,
+      "decliners": 2,
+      "unchanged": 0,
       "topGainer": {
         "symbol": "PRIN",
         "pChange": 1.94
